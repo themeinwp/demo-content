@@ -3,9 +3,9 @@
     "import_files": [
       {
         "import_file_name": "free",
-        "preview_link": "https:\/\/live-preview.themeinwp.com\/alok\/",
-        "demo_slug": "default",
-        "import_preview_image_url": "https:\/\/raw.githubusercontent.com\/themeinwp\/demo-content\/master\/alok\/free\/screenshot.png",
+        "preview_link": "https://live-preview.themeinwp.com/alok/",
+        "demo_slug": "free",
+        "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/master/alok/free/screenshot.png",
         "primary_category_id": [
           "free"
         ],
@@ -15,8 +15,8 @@
       },
       {
         "import_file_name": "pro",
-        "preview_link": "https:\/\/live-preview.themeinwp.com\/alok-pro\/",
-        "import_preview_image_url": "https:\/\/raw.githubusercontent.com\/themeinwp\/demo-content\/master\/alok%2Fpro%2Fscreenshot.png",
+        "preview_link": "https://live-preview.themeinwp.com/alok-pro/",
+        "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/master/alok-pro/screenshot.png",
         "primary_category_id": [
           "pro"
         ],
@@ -34,6 +34,6 @@
       "magazine": "Magazine",
       "blog": "Blog"
     },
-    "upgrade_pro": "https:\/\/www.themeinwp.com\/theme\/alok-pro\/"
+    "upgrade_pro": "https://www.themeinwp.com/theme/alok-pro/"
   }
 ]
