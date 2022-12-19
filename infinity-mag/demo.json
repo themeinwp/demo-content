@@ -4,7 +4,7 @@
             "import_file_name": "Default",
             "preview_link": "https://demo.themeinwp.com/infinity-mag/",
             "demo_slug": "default",
-            "import_preview_image_url": "https://github.com/themeinwp/demo-content/blob/main/infinity-mag/default/screenshot.png",
+            "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/infinity-mag/default/screenshot.png",
             "primary_category_id": ["free"],
             "secondary_category_id": ["magazine"]
         },
@@ -12,7 +12,7 @@
             "import_file_name": "Sport",
             "preview_link": "https://demo.themeinwp.com/infinity-mag/sports-mag/",
             "demo_slug": "travel",
-            "import_preview_image_url": "https://github.com/themeinwp/demo-content/blob/main/infinity-mag/sport/screenshot.png",
+            "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/infinity-mag/sport/screenshot.png",
             "primary_category_id": ["free"],
             "secondary_category_id": ["magazine"]
         },
@@ -20,14 +20,14 @@
             "import_file_name": "Fashion",
             "preview_link": "https://demo.themeinwp.com/infinity-mag/fashion-mag/",
             "demo_slug": "fashion",
-            "import_preview_image_url": "https://github.com/themeinwp/demo-content/blob/main/infinity-mag/fashion/screenshot.png",
+            "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/infinity-mag/fashion/screenshot.png",
             "primary_category_id": ["free"]
         },
         {
             "import_file_name": "News",
             "preview_link": "https://demo.themeinwp.com/infinity-mag/newspaper/",
             "demo_slug": "news",
-            "import_preview_image_url": "https://github.com/themeinwp/demo-content/blob/main/infinity-mag/news/screenshot.png",
+            "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/infinity-mag/news/screenshot.png",
             "primary_category_id": ["free"],
             "secondary_category_id": ["magazine"]
         },
@@ -35,14 +35,14 @@
             "import_file_name": "Minimal",
             "preview_link": "https://demo.themeinwp.com/infinity-mag/minimal-blog/",
             "demo_slug": "minimal",
-            "import_preview_image_url": "https://github.com/themeinwp/demo-content/blob/main/infinity-mag/minimal/screenshot.png",
+            "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/infinity-mag/minimal/screenshot.png",
             "primary_category_id": ["free"],
             "secondary_category_id": ["blog"]
         },
         {
             "import_file_name": "Pro Default",
             "preview_link": "https://demo.themeinwp.com/infinity-mag-pro/",
-            "import_preview_image_url": "https://github.com/themeinwp/demo-content/blob/main/infinity-mag/pro-default/screenshot.png",
+            "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/infinity-mag/pro-default/screenshot.png",
             "primary_category_id": ["pro"],
             "secondary_category_id": ["magazine"],
             "thumbnail_sticker": "Pro"
@@ -50,7 +50,7 @@
         {
             "import_file_name": "Sport",
             "preview_link": "https://demo.themeinwp.com/infinity-mag-pro/sports-mag/",
-            "import_preview_image_url": "https://github.com/themeinwp/demo-content/blob/main/infinity-mag/pro-sport/screenshot.png",
+            "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/infinity-mag/pro-sport/screenshot.png",
             "primary_category_id": ["pro"],
             "secondary_category_id": ["magazine"],
             "thumbnail_sticker": "Pro"
@@ -58,7 +58,7 @@
         {
             "import_file_name": "Fashion",
             "preview_link": "https://demo.themeinwp.com/infinity-mag-pro/fashion-mag/",
-            "import_preview_image_url": "https://github.com/themeinwp/demo-content/blob/main/infinity-mag/pro-fashion/screenshot.png",
+            "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/infinity-mag/pro-fashion/screenshot.png",
             "primary_category_id": ["pro"],
             "secondary_category_id": ["magazine"],
             "thumbnail_sticker": "Pro"
@@ -66,7 +66,7 @@
         {
             "import_file_name": "Minimal",
             "preview_link": "https://demo.themeinwp.com/infinity-mag-pro/minimal-blog/",
-            "import_preview_image_url": "https://github.com/themeinwp/demo-content/blob/main/infinity-mag/pro-minimal/screenshot.png",
+            "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/infinity-mag/pro-minimal/screenshot.png",
             "primary_category_id": ["pro"],
             "secondary_category_id": ["blog"],
             "thumbnail_sticker": "Pro"
@@ -74,7 +74,7 @@
         {
             "import_file_name": "News",
             "preview_link": "https://demo.themeinwp.com/infinity-mag-pro/minimal-blog/",
-            "import_preview_image_url": "https://github.com/themeinwp/demo-content/blob/main/infinity-mag/pro-newspaper/screenshot.png",
+            "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/infinity-mag/pro-newspaper/screenshot.png",
             "primary_category_id": ["pro"],
             "secondary_category_id": ["magazine"],
             "thumbnail_sticker": "Pro"
