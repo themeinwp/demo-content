@@ -1,1 +1,6 @@
-eyJtZW51cyI6eyJqYXRyYS1wcmltYXJ5LW1lbnUiOiJQcmltYXJ5IE1lbnUiLCJqYXRyYS1zb2NpYWwtbWVudSI6IlNvY2lhbCBNZW51In19
+{
+  "menus": {
+    "jatra-primary-menu": "Primary Menu",
+    "jatra-social-menu": "Social Menu"
+  }
+}

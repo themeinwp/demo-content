@@ -1,1 +1,6 @@
-eyJtZW51cyI6eyJhbGxpbm9uZS1wcmltYXJ5LW1lbnUiOiJQcmltYXJ5IE1lbnUiLCJhbGxpbm9uZS1zb2NpYWwtbWVudSI6IlNvY2lhbCBNZW51In19
+{
+  "menus": {
+    "allinone-primary-menu": "Primary Menu",
+    "allinone-social-menu": "Social Menu"
+  }
+}

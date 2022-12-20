@@ -1,1 +1,6 @@
-eyJtZW51cyI6eyJuZXdzcmVwdWJsaWMtcHJpbWFyeS1tZW51IjoiUHJpbWFyeSBNZW51IiwibmV3c3JlcHVibGljLXNvY2lhbC1tZW51IjoiU29jaWFsIE1lbnUifX0=
+{
+  "menus": {
+    "newsrepublic-primary-menu": "Primary Menu",
+    "newsrepublic-social-menu": "Social Menu"
+  }
+}

@@ -1,1 +1,6 @@
-eyJtZW51cyI6eyJiZWdpbm5lci1ibG9nLXByaW1hcnktbWVudSI6IlByaW1hcnkgTWVudSIsImJlZ2lubmVyLWJsb2ctc29jaWFsLW1lbnUiOiJTb2NpYWwgTWVudSJ9fQ==
+{
+  "menus": {
+    "beginner-blog-primary-menu": "Primary Menu",
+    "beginner-blog-social-menu": "Social Menu"
+  }
+}

@@ -1,1 +1,6 @@
-eyJtZW51cyI6eyJib3p1LXByaW1hcnktbWVudSI6IlByaW1hcnkgTWVudSIsImJvenUtc29jaWFsLW1lbnUiOiJTb2NpYWwgTWVudSJ9fQ==
+{
+  "menus": {
+    "bozu-primary-menu": "Primary Menu",
+    "bozu-social-menu": "Social Menu"
+  }
+}

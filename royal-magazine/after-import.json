@@ -1,1 +1,9 @@
-eyJtZW51cyI6eyJwcmltYXJ5IjoiQWxsIFBhZ2UiLCJmb290ZXIiOiJBbGwgUGFnZXMgRmxhdCIsInNvY2lhbCI6IlNvY2lhbCBOYXZpZ2F0aW9uIn0sImhvbWUiOiJIb21lcGFnZSIsImJsb2ciOiJCbG9nIn0=
+{
+  "menus": {
+    "primary": "All Page",
+    "footer": "All Pages Flat",
+    "social": "Social Navigation"
+  },
+  "home": "Homepage",
+  "blog": "Blog"
+}

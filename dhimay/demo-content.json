@@ -1,1 +1,23 @@
-eyJpbXBvcnRfZmlsZXMiOlt7ImltcG9ydF9maWxlX25hbWUiOiJEaGltYXkgRnJlZSIsInByZXZpZXdfbGluayI6Imh0dHBzOlwvXC9saXZlLXByZXZpZXcudGhlbWVpbndwLmNvbVwvZGhpbWF5XC8iLCJkZW1vX3NsdWciOiJmcmVlIiwiaW1wb3J0X3ByZXZpZXdfaW1hZ2VfdXJsIjoiaHR0cHM6XC9cL2dpdGxhYi5jb21cL2FwaVwvdjRcL3Byb2plY3RzXC8yMDcyNDYyMFwvcmVwb3NpdG9yeVwvZmlsZXNcL2RoaW1heSUyRmZyZWUlMkZzY3JlZW5zaG90LnBuZ1wvcmF3XC8/cmVmPW1hc3RlciIsInByaW1hcnlfY2F0ZWdvcnlfaWQiOlsiZnJlZSJdLCJzZWNvbmRhcnlfY2F0ZWdvcnlfaWQiOlsibXVzaWMiXX0seyJpbXBvcnRfZmlsZV9uYW1lIjoiRGhpbWF5IFBybyIsInByZXZpZXdfbGluayI6Imh0dHBzOlwvXC9saXZlLXByZXZpZXcudGhlbWVpbndwLmNvbVwvZGhpbWF5LXByb1wvIiwiaW1wb3J0X3ByZXZpZXdfaW1hZ2VfdXJsIjoiaHR0cHM6XC9cL2dpdGxhYi5jb21cL2FwaVwvdjRcL3Byb2plY3RzXC8yMDcyNDYyMFwvcmVwb3NpdG9yeVwvZmlsZXNcL2RoaW1heSUyRnBybyUyRnNjcmVlbnNob3QucG5nXC9yYXdcLz9yZWY9bWFzdGVyIiwicHJpbWFyeV9jYXRlZ29yeV9pZCI6WyJwcm8iXSwic2Vjb25kYXJ5X2NhdGVnb3J5X2lkIjpbIm11c2ljIl0sInRodW1ibmFpbF9zdGlja2VyIjoiUHJvIn1dLCJwcmltYXJ5X2NhdGVnb3J5Ijp7ImZyZWUiOiJGcmVlIiwicHJvIjoiUHJvIn0sInNlY29uZGFyeV9jYXRlZ29yeSI6eyJtdXNpYyI6Ik11c2ljIiwiYmxvZyI6IkJsb2cifSwidXBncmFkZV9wcm8iOiJodHRwczpcL1wvd3d3LnRoZW1laW53cC5jb21cL3RoZW1lXC9kaGltYXktcHJvXC8ifQ==
+{
+  "import_files": [
+    {
+      "import_file_name": "Dhimay Free",
+      "preview_link": "https://live-preview.themeinwp.com/dhimay/",
+      "demo_slug": "free",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/dhimay/free/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["music"]
+    },
+    {
+      "import_file_name": "Dhimay Pro",
+      "preview_link": "https://live-preview.themeinwp.com/dhimay-pro/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/dhimay/pro/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["music"],
+      "thumbnail_sticker": "Pro"
+    }
+  ],
+  "primary_category": { "free": "Free", "pro": "Pro" },
+  "secondary_category": { "music": "Music", "blog": "Blog" },
+  "upgrade_pro": "https://www.themeinwp.com/theme/dhimay-pro/"
+}

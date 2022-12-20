@@ -1,1 +1,10 @@
-eyJtZW51cyI6eyJ0d3AtcHJpbWFyeS1tZW51IjoiUHJpbWFyeSBNZW51IiwidHdwLXRvcC1tZW51IjoiVG9wIE1lbnUiLCJ0d3Atc2Vjb25kYXJ5LW1lbnUiOiJTZWNvbmRhcnkgTWVudSIsInR3cC1mb290ZXItbWVudSI6IkZvb3RlciBNZW51IiwidHdwLXNvY2lhbC1tZW51IjoiU29jaWFsIE1lbnUifSwiaG9tZSI6IkhvbWVwYWdlIn0=
+{
+  "menus": {
+    "twp-primary-menu": "Primary Menu",
+    "twp-top-menu": "Top Menu",
+    "twp-secondary-menu": "Secondary Menu",
+    "twp-footer-menu": "Footer Menu",
+    "twp-social-menu": "Social Menu"
+  },
+  "home": "Homepage"
+}

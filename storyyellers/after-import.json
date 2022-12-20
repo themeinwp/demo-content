@@ -1,1 +1,6 @@
-eyJtZW51cyI6eyJzdG9yeXllbGxlcnMtcHJpbWFyeS1tZW51IjoiUHJpbWFyeSBNZW51Iiwic3Rvcnl5ZWxsZXJzLXNvY2lhbC1tZW51IjoiU29jaWFsIE1lbnUifX0=
+{
+  "menus": {
+    "storyyellers-primary-menu": "Primary Menu",
+    "storyyellers-social-menu": "Social Menu"
+  }
+}

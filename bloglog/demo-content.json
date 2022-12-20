@@ -1,1 +1,23 @@
-eyJpbXBvcnRfZmlsZXMiOlt7ImltcG9ydF9maWxlX25hbWUiOiJmcmVlIiwicHJldmlld19saW5rIjoiaHR0cHM6XC9cL2xpdmUtZGVtby50aGVtZWlud3AuY29tXC9ibG9nbG9nXC8iLCJkZW1vX3NsdWciOiJmcmVlIiwiaW1wb3J0X3ByZXZpZXdfaW1hZ2VfdXJsIjoiaHR0cHM6XC9cL2dpdGxhYi5jb21cL2FwaVwvdjRcL3Byb2plY3RzXC8yMDcyNDYyMFwvcmVwb3NpdG9yeVwvZmlsZXNcL2Jsb2dsb2clMkZmcmVlJTJGc2NyZWVuc2hvdC5wbmdcL3Jhd1wvP3JlZj1tYXN0ZXIiLCJwcmltYXJ5X2NhdGVnb3J5X2lkIjpbImZyZWUiXSwic2Vjb25kYXJ5X2NhdGVnb3J5X2lkIjpbIm1hZ2F6aW5lIl19LHsiaW1wb3J0X2ZpbGVfbmFtZSI6IlBybyBEZWZhdWx0IiwicHJldmlld19saW5rIjoiaHR0cHM6XC9cL2xpdmUtZGVtby50aGVtZWlud3AuY29tXC9ibG9nbG9nLXByb1wvIiwiaW1wb3J0X3ByZXZpZXdfaW1hZ2VfdXJsIjoiaHR0cHM6XC9cL2dpdGxhYi5jb21cL2FwaVwvdjRcL3Byb2plY3RzXC8yMDcyNDYyMFwvcmVwb3NpdG9yeVwvZmlsZXNcL2Jsb2dsb2clMkZmcmVlJTJGc2NyZWVuc2hvdC5wbmdcL3Jhd1wvP3JlZj1tYXN0ZXIiLCJwcmltYXJ5X2NhdGVnb3J5X2lkIjpbInBybyJdLCJzZWNvbmRhcnlfY2F0ZWdvcnlfaWQiOlsibWFnYXppbmUiXSwidGh1bWJuYWlsX3N0aWNrZXIiOiJQcm8ifV0sInByaW1hcnlfY2F0ZWdvcnkiOnsiZnJlZSI6IkZyZWUiLCJwcm8iOiJQcm8ifSwic2Vjb25kYXJ5X2NhdGVnb3J5Ijp7Im1hZ2F6aW5lIjoiTWFnYXppbmUiLCJibG9nIjoiQmxvZyJ9LCJ1cGdyYWRlX3BybyI6Imh0dHBzOlwvXC93d3cudGhlbWVpbndwLmNvbVwvdGhlbWVcL2Jsb2dsb2ctcHJvXC8ifQ==
+{
+  "import_files": [
+    {
+      "import_file_name": "free",
+      "preview_link": "https://live-demo.themeinwp.com/bloglog/",
+      "demo_slug": "free",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/bloglog/free/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["magazine"]
+    },
+    {
+      "import_file_name": "Pro Default",
+      "preview_link": "https://live-demo.themeinwp.com/bloglog-pro/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/bloglog/free/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["magazine"],
+      "thumbnail_sticker": "Pro"
+    }
+  ],
+  "primary_category": { "free": "Free", "pro": "Pro" },
+  "secondary_category": { "magazine": "Magazine", "blog": "Blog" },
+  "upgrade_pro": "https://www.themeinwp.com/theme/bloglog-pro/"
+}

@@ -1,1 +1,20 @@
-eyJpbXBvcnRfZmlsZXMiOlt7ImltcG9ydF9maWxlX25hbWUiOiJGcmVlIiwicHJldmlld19saW5rIjoiaHR0cHM6XC9cL3ByZXZpZXcudGhlbWVpbndwLmNvbVwvam9sdG5ld3NcLyIsImRlbW9fc2x1ZyI6ImZyZWUiLCJpbXBvcnRfcHJldmlld19pbWFnZV91cmwiOiJodHRwczpcL1wvZ2l0bGFiLmNvbVwvYXBpXC92NFwvcHJvamVjdHNcLzIwNzI0NjIwXC9yZXBvc2l0b3J5XC9maWxlc1wvam9sdG5ld3MlMkZmcmVlJTJGc2NyZWVuc2hvdC5wbmdcL3Jhd1wvP3JlZj1tYXN0ZXIiLCJwcmltYXJ5X2NhdGVnb3J5X2lkIjpbImZyZWUiXX0seyJpbXBvcnRfZmlsZV9uYW1lIjoiUHJvIiwicHJldmlld19saW5rIjoiaHR0cHM6XC9cL3ByZXZpZXcudGhlbWVpbndwLmNvbVwvam9sdG5ld3MtcHJvXC8iLCJpbXBvcnRfcHJldmlld19pbWFnZV91cmwiOiJodHRwczpcL1wvZ2l0bGFiLmNvbVwvYXBpXC92NFwvcHJvamVjdHNcLzIwNzI0NjIwXC9yZXBvc2l0b3J5XC9maWxlc1wvam9sdG5ld3MlMkZwcm8lMkZzY3JlZW5zaG90LnBuZ1wvcmF3XC8/cmVmPW1hc3RlciIsInByaW1hcnlfY2F0ZWdvcnlfaWQiOlsicHJvIl0sInRodW1ibmFpbF9zdGlja2VyIjoiUHJvIn1dLCJwcmltYXJ5X2NhdGVnb3J5Ijp7ImZyZWUiOiJGcmVlIiwicHJvIjoiUHJvIn0sInVwZ3JhZGVfcHJvIjoiaHR0cHM6XC9cL3d3dy50aGVtZWlud3AuY29tXC90aGVtZVwvam9sdG5ld3MtcHJvXC8ifQ==
+{
+  "import_files": [
+    {
+      "import_file_name": "Free",
+      "preview_link": "https://preview.themeinwp.com/joltnews/",
+      "demo_slug": "free",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/joltnews/free/screenshot.png",
+      "primary_category_id": ["free"]
+    },
+    {
+      "import_file_name": "Pro",
+      "preview_link": "https://preview.themeinwp.com/joltnews-pro/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/joltnews/pro/screenshot.png",
+      "primary_category_id": ["pro"],
+      "thumbnail_sticker": "Pro"
+    }
+  ],
+  "primary_category": { "free": "Free", "pro": "Pro" },
+  "upgrade_pro": "https://www.themeinwp.com/theme/joltnews-pro/"
+}

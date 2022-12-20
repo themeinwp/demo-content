@@ -1,1 +1,6 @@
-eyJtZW51cyI6eyJjb3ZlcmFnZS1wcmltYXJ5LW1lbnUiOiJQcmltYXJ5IE1lbnUiLCJjb3ZlcmFnZS1zb2NpYWwtbWVudSI6IlNvY2lhbCBNZW51In19
+{
+  "menus": {
+    "coverage-primary-menu": "Primary Menu",
+    "coverage-social-menu": "Social Menu"
+  }
+}

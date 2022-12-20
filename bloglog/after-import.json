@@ -1,1 +1,6 @@
-eyJtZW51cyI6eyJxdWlja2VyLXByaW1hcnktbWVudSI6IlByaW1hcnkgTWVudSIsInF1aWNrZXItc29jaWFsLW1lbnUiOiJTb2NpYWwgTWVudSJ9fQ==
+{
+  "menus": {
+    "bloglog-primary-menu": "Primary Menu",
+    "bloglog-social-menu": "Social Menu"
+  }
+}

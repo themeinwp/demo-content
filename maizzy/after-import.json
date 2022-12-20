@@ -1,1 +1,7 @@
-eyJtZW51cyI6eyJtYWl6enktcHJpbWFyeS1tZW51IjoiUHJpbWFyeSBNZW51IiwibWFpenp5LXNvY2lhbC1tZW51IjoiU29jaWFsIE1lbnUifSwiaG9tZSI6IkhvbWVwYWdlIn0=
+{
+  "menus": {
+    "maizzy-primary-menu": "Primary Menu",
+    "maizzy-social-menu": "Social Menu"
+  },
+  "home": "Homepage"
+}

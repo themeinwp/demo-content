@@ -1,1 +1,39 @@
-eyJpbXBvcnRfZmlsZXMiOlt7ImltcG9ydF9maWxlX25hbWUiOiJGcmVlIiwicHJldmlld19saW5rIjoiaHR0cHM6XC9cL2RlbW8udGhlbWVpbndwLmNvbVwvYmxvb2tcLyIsImRlbW9fc2x1ZyI6ImZyZWUiLCJpbXBvcnRfcHJldmlld19pbWFnZV91cmwiOiJodHRwczpcL1wvZ2l0bGFiLmNvbVwvYXBpXC92NFwvcHJvamVjdHNcLzIwNzI0NjIwXC9yZXBvc2l0b3J5XC9maWxlc1wvYmxvb2slMkZmcmVlJTJGc2NyZWVuc2hvdC5wbmdcL3Jhd1wvP3JlZj1tYXN0ZXIiLCJwcmltYXJ5X2NhdGVnb3J5X2lkIjpbImZyZWUiXSwic2Vjb25kYXJ5X2NhdGVnb3J5X2lkIjpbIm1hZ2F6aW5lIiwiYmxvZyJdfSx7ImltcG9ydF9maWxlX25hbWUiOiJNaW5pbWFsIiwicHJldmlld19saW5rIjoiaHR0cHM6XC9cL2RlbW8udGhlbWVpbndwLmNvbVwvYmxvb2tcL21pbmltYWwtbGlnaHQtd2VpZ2h0LWZyZWUtd3AtdGhlbWVcLyIsImRlbW9fc2x1ZyI6Im1pbmltYWwiLCJpbXBvcnRfcHJldmlld19pbWFnZV91cmwiOiJodHRwczpcL1wvZ2l0bGFiLmNvbVwvYXBpXC92NFwvcHJvamVjdHNcLzIwNzI0NjIwXC9yZXBvc2l0b3J5XC9maWxlc1wvYmxvb2slMkZtaW5pbWFsJTJGc2NyZWVuc2hvdC5wbmdcL3Jhd1wvP3JlZj1tYXN0ZXIiLCJwcmltYXJ5X2NhdGVnb3J5X2lkIjpbImZyZWUiXSwic2Vjb25kYXJ5X2NhdGVnb3J5X2lkIjpbIm1hZ2F6aW5lIiwiYmxvZyJdfSx7ImltcG9ydF9maWxlX25hbWUiOiJNYWdhemluZSIsInByZXZpZXdfbGluayI6Imh0dHBzOlwvXC9kZW1vLnRoZW1laW53cC5jb21cL2Jsb29rXC9saWdodHdlaWdodC13cC1mYXNoaW9uLW1hZ2F6aW5lXC8iLCJkZW1vX3NsdWciOiJtYWdhemluZSIsImltcG9ydF9wcmV2aWV3X2ltYWdlX3VybCI6Imh0dHBzOlwvXC9naXRsYWIuY29tXC9hcGlcL3Y0XC9wcm9qZWN0c1wvMjA3MjQ2MjBcL3JlcG9zaXRvcnlcL2ZpbGVzXC9ibG9vayUyRm1hZ2F6aW5lJTJGc2NyZWVuc2hvdC5wbmdcL3Jhd1wvP3JlZj1tYXN0ZXIiLCJwcmltYXJ5X2NhdGVnb3J5X2lkIjpbImZyZWUiXSwic2Vjb25kYXJ5X2NhdGVnb3J5X2lkIjpbIm1hZ2F6aW5lIiwiYmxvZyJdfSx7ImltcG9ydF9maWxlX25hbWUiOiJOZXdzIiwicHJldmlld19saW5rIjoiaHR0cHM6XC9cL2RlbW8udGhlbWVpbndwLmNvbVwvYmxvb2tcL3Byb1wvIiwiaW1wb3J0X3ByZXZpZXdfaW1hZ2VfdXJsIjoiaHR0cHM6XC9cL2dpdGxhYi5jb21cL2FwaVwvdjRcL3Byb2plY3RzXC8yMDcyNDYyMFwvcmVwb3NpdG9yeVwvZmlsZXNcL2Jsb29rJTJGcHJvJTJGc2NyZWVuc2hvdC5wbmdcL3Jhd1wvP3JlZj1tYXN0ZXIiLCJwcmltYXJ5X2NhdGVnb3J5X2lkIjpbInBybyJdLCJzZWNvbmRhcnlfY2F0ZWdvcnlfaWQiOlsibWFnYXppbmUiLCJibG9nIl0sInRodW1ibmFpbF9zdGlja2VyIjoiUHJvIn1dLCJwcmltYXJ5X2NhdGVnb3J5Ijp7ImZyZWUiOiJGcmVlIiwicHJvIjoiUHJvIn0sInNlY29uZGFyeV9jYXRlZ29yeSI6eyJtYWdhemluZSI6Ik1hZ2F6aW5lIiwiYmxvZyI6IkJsb2cifSwidXBncmFkZV9wcm8iOiJodHRwczpcL1wvd3d3LnRoZW1laW53cC5jb21cL3RoZW1lXC9ibG9vay1wcm9cLyJ9
+{
+  "import_files": [
+    {
+      "import_file_name": "Free",
+      "preview_link": "https://demo.themeinwp.com/blook/",
+      "demo_slug": "free",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/blook/free/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["magazine", "blog"]
+    },
+    {
+      "import_file_name": "Minimal",
+      "preview_link": "https://demo.themeinwp.com/blook/minimal-light-weight-free-wp-theme/",
+      "demo_slug": "minimal",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/blook/minimal/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["magazine", "blog"]
+    },
+    {
+      "import_file_name": "Magazine",
+      "preview_link": "https://demo.themeinwp.com/blook/lightweight-wp-fashion-magazine/",
+      "demo_slug": "magazine",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/blook/magazine/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["magazine", "blog"]
+    },
+    {
+      "import_file_name": "News",
+      "preview_link": "https://demo.themeinwp.com/blook/pro/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/blook/pro/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["magazine", "blog"],
+      "thumbnail_sticker": "Pro"
+    }
+  ],
+  "primary_category": { "free": "Free", "pro": "Pro" },
+  "secondary_category": { "magazine": "Magazine", "blog": "Blog" },
+  "upgrade_pro": "https://www.themeinwp.com/theme/blook-pro/"
+}

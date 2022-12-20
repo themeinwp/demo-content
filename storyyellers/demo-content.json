@@ -1,1 +1,20 @@
-eyJpbXBvcnRfZmlsZXMiOlt7ImltcG9ydF9maWxlX25hbWUiOiJmcmVlIiwicHJldmlld19saW5rIjoiaHR0cHM6XC9cL3ByZXZpZXcudGhlbWVpbndwLmNvbVwvc3Rvcnl5ZWxsZXJzXC8iLCJkZW1vX3NsdWciOiJmcmVlIiwiaW1wb3J0X3ByZXZpZXdfaW1hZ2VfdXJsIjoiaHR0cHM6XC9cL2dpdGxhYi5jb21cL2FwaVwvdjRcL3Byb2plY3RzXC8yMDcyNDYyMFwvcmVwb3NpdG9yeVwvZmlsZXNcL3N0b3J5eWVsbGVycyUyRmZyZWUlMkZzY3JlZW5zaG90LnBuZ1wvcmF3XC8/cmVmPW1hc3RlciIsInByaW1hcnlfY2F0ZWdvcnlfaWQiOlsiZnJlZSJdfSx7ImltcG9ydF9maWxlX25hbWUiOiJwcm8iLCJwcmV2aWV3X2xpbmsiOiJodHRwczpcL1wvcHJldmlldy50aGVtZWlud3AuY29tXC9zdG9yeXllbGxlcnMtcHJvXC8iLCJpbXBvcnRfcHJldmlld19pbWFnZV91cmwiOiJodHRwczpcL1wvZ2l0bGFiLmNvbVwvYXBpXC92NFwvcHJvamVjdHNcLzIwNzI0NjIwXC9yZXBvc2l0b3J5XC9maWxlc1wvc3Rvcnl5ZWxsZXJzJTJGcHJvJTJGc2NyZWVuc2hvdC5wbmdcL3Jhd1wvP3JlZj1tYXN0ZXIiLCJwcmltYXJ5X2NhdGVnb3J5X2lkIjpbInBybyJdLCJ0aHVtYm5haWxfc3RpY2tlciI6IlBybyJ9XSwicHJpbWFyeV9jYXRlZ29yeSI6eyJmcmVlIjoiRnJlZSIsInBybyI6IlBybyJ9LCJ1cGdyYWRlX3BybyI6Imh0dHBzOlwvXC93d3cudGhlbWVpbndwLmNvbVwvdGhlbWVcL3N0b3J5eWVsbGVycy1wcm9cLyJ9
+{
+  "import_files": [
+    {
+      "import_file_name": "free",
+      "preview_link": "https://preview.themeinwp.com/storyyellers/",
+      "demo_slug": "free",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/storyyellers/free/screenshot.png",
+      "primary_category_id": ["free"]
+    },
+    {
+      "import_file_name": "pro",
+      "preview_link": "https://preview.themeinwp.com/storyyellers-pro/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/storyyellers/pro/screenshot.png",
+      "primary_category_id": ["pro"],
+      "thumbnail_sticker": "Pro"
+    }
+  ],
+  "primary_category": { "free": "Free", "pro": "Pro" },
+  "upgrade_pro": "https://www.themeinwp.com/theme/storyyellers-pro/"
+}

@@ -1,1 +1,7 @@
-eyJtZW51cyI6eyJrdXNoYWstcHJpbWFyeS1tZW51IjoiUHJpbWFyeSBNZW51Iiwia3VzaGFrLXNvY2lhbC1tZW51IjoiU29jaWFsIE1lbnUiLCJrdXNoYWstZm9vdGVyLW1lbnUiOiJGb290ZXIgTWVudSJ9fQ==
+{
+  "menus": {
+    "kushak-primary-menu": "Primary Menu",
+    "kushak-social-menu": "Social Menu",
+    "kushak-footer-menu": "Footer Menu"
+  }
+}

@@ -1,1 +1,6 @@
-eyJtZW51cyI6eyJhc2hsYXItcHJpbWFyeS1tZW51IjoiUHJpbWFyeSBNZW51IiwiYXNobGFyLXNvY2lhbC1tZW51IjoiU29jaWFsIE1lbnUifX0=
+{
+  "menus": {
+    "ashlar-primary-menu": "Primary Menu",
+    "ashlar-social-menu": "Social Menu"
+  }
+}

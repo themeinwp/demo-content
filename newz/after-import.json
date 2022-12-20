@@ -1,1 +1,6 @@
-eyJtZW51cyI6eyJuZXd6LXByaW1hcnktbWVudSI6IlByaW1hcnkgTWVudSIsIm5ld3otc29jaWFsLW1lbnUiOiJTb2NpYWwgTWVudSJ9fQ==
+{
+  "menus": {
+    "newz-primary-menu": "Primary Menu",
+    "newz-social-menu": "Social Menu"
+  }
+}

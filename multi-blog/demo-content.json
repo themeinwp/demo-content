@@ -1,1 +1,23 @@
-eyJpbXBvcnRfZmlsZXMiOlt7ImltcG9ydF9maWxlX25hbWUiOiJmcmVlIiwicHJldmlld19saW5rIjoiaHR0cHM6XC9cL2xpdmUtcHJldmlldy50aGVtZWlud3AuY29tXC9tdWx0aS1ibG9nXC8iLCJkZW1vX3NsdWciOiJmcmVlIiwiaW1wb3J0X3ByZXZpZXdfaW1hZ2VfdXJsIjoiaHR0cHM6XC9cL2dpdGxhYi5jb21cL2FwaVwvdjRcL3Byb2plY3RzXC8yMDcyNDYyMFwvcmVwb3NpdG9yeVwvZmlsZXNcL211bHRpLWJsb2clMkZmcmVlJTJGc2NyZWVuc2hvdC5wbmdcL3Jhd1wvP3JlZj1tYXN0ZXIiLCJwcmltYXJ5X2NhdGVnb3J5X2lkIjpbImZyZWUiXSwic2Vjb25kYXJ5X2NhdGVnb3J5X2lkIjpbIm1hZ2F6aW5lIl19LHsiaW1wb3J0X2ZpbGVfbmFtZSI6IlBybyBEZWZhdWx0IiwicHJldmlld19saW5rIjoiaHR0cHM6XC9cL2xpdmUtcHJldmlldy50aGVtZWlud3AuY29tXC9tdWx0aS1ibG9nLXByb1wvIiwiaW1wb3J0X3ByZXZpZXdfaW1hZ2VfdXJsIjoiaHR0cHM6XC9cL2dpdGxhYi5jb21cL2FwaVwvdjRcL3Byb2plY3RzXC8yMDcyNDYyMFwvcmVwb3NpdG9yeVwvZmlsZXNcL211bHRpLWJsb2clMkZwcm8lMkZzY3JlZW5zaG90LnBuZ1wvcmF3XC8/cmVmPW1hc3RlciIsInByaW1hcnlfY2F0ZWdvcnlfaWQiOlsicHJvIl0sInNlY29uZGFyeV9jYXRlZ29yeV9pZCI6WyJtYWdhemluZSJdLCJ0aHVtYm5haWxfc3RpY2tlciI6IlBybyJ9XSwicHJpbWFyeV9jYXRlZ29yeSI6eyJmcmVlIjoiRnJlZSIsInBybyI6IlBybyJ9LCJzZWNvbmRhcnlfY2F0ZWdvcnkiOnsibWFnYXppbmUiOiJNYWdhemluZSIsImJsb2ciOiJCbG9nIn0sInVwZ3JhZGVfcHJvIjoiaHR0cHM6XC9cL2xpdmUtcHJldmlldy50aGVtZWlud3AuY29tXC9tdWx0aS1ibG9nLXByb1wvIn0=
+{
+  "import_files": [
+    {
+      "import_file_name": "free",
+      "preview_link": "https://live-preview.themeinwp.com/multi-blog/",
+      "demo_slug": "free",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/multi-blog/free/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["magazine"]
+    },
+    {
+      "import_file_name": "Pro Default",
+      "preview_link": "https://live-preview.themeinwp.com/multi-blog-pro/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/multi-blog/pro/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["magazine"],
+      "thumbnail_sticker": "Pro"
+    }
+  ],
+  "primary_category": { "free": "Free", "pro": "Pro" },
+  "secondary_category": { "magazine": "Magazine", "blog": "Blog" },
+  "upgrade_pro": "https://live-preview.themeinwp.com/multi-blog-pro/"
+}

@@ -1,1 +1,23 @@
-eyJpbXBvcnRfZmlsZXMiOlt7ImltcG9ydF9maWxlX25hbWUiOiJGcmVlIiwicHJldmlld19saW5rIjoiaHR0cHM6XC9cL3ByZXZpZXcudGhlbWVpbndwLmNvbVwvYmxvZ2V4cHJlc3NcLyIsImRlbW9fc2x1ZyI6ImZyZWUiLCJpbXBvcnRfcHJldmlld19pbWFnZV91cmwiOiJodHRwczpcL1wvZ2l0bGFiLmNvbVwvYXBpXC92NFwvcHJvamVjdHNcLzIwNzI0NjIwXC9yZXBvc2l0b3J5XC9maWxlc1wvYmxvZ2V4cHJlc3MlMkZmcmVlJTJGc2NyZWVuc2hvdC5wbmdcL3Jhd1wvP3JlZj1tYXN0ZXIiLCJwcmltYXJ5X2NhdGVnb3J5X2lkIjpbImZyZWUiXSwic2Vjb25kYXJ5X2NhdGVnb3J5X2lkIjpbImJsb2ciXX0seyJpbXBvcnRfZmlsZV9uYW1lIjoiUHJvIiwicHJldmlld19saW5rIjoiaHR0cHM6XC9cL3ByZXZpZXcudGhlbWVpbndwLmNvbVwvYmxvZ2V4cHJlc3MtcHJvXC9taW5pbWFsLWJsb2dcLyIsImltcG9ydF9wcmV2aWV3X2ltYWdlX3VybCI6Imh0dHBzOlwvXC9naXRsYWIuY29tXC9hcGlcL3Y0XC9wcm9qZWN0c1wvMjA3MjQ2MjBcL3JlcG9zaXRvcnlcL2ZpbGVzXC9ibG9nZXhwcmVzcyUyRnBybyUyRnNjcmVlbnNob3QucG5nXC9yYXdcLz9yZWY9bWFzdGVyIiwicHJpbWFyeV9jYXRlZ29yeV9pZCI6WyJwcm8iXSwic2Vjb25kYXJ5X2NhdGVnb3J5X2lkIjpbImJsb2ciXSwidGh1bWJuYWlsX3N0aWNrZXIiOiJQcm8ifV0sInByaW1hcnlfY2F0ZWdvcnkiOnsiZnJlZSI6IkZyZWUiLCJwcm8iOiJQcm8ifSwic2Vjb25kYXJ5X2NhdGVnb3J5Ijp7ImJsb2ciOiJCbG9nIn0sInVwZ3JhZGVfcHJvIjoiaHR0cHM6XC9cL3d3dy50aGVtZWlud3AuY29tXC90aGVtZVwvYmxvZ2V4cHJlc3MtcHJvXC8ifQ==
+{
+  "import_files": [
+    {
+      "import_file_name": "Free",
+      "preview_link": "https://preview.themeinwp.com/blogexpress/",
+      "demo_slug": "free",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/blogexpress/free/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["blog"]
+    },
+    {
+      "import_file_name": "Pro",
+      "preview_link": "https://preview.themeinwp.com/blogexpress-pro/minimal-blog/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/blogexpress/pro/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["blog"],
+      "thumbnail_sticker": "Pro"
+    }
+  ],
+  "primary_category": { "free": "Free", "pro": "Pro" },
+  "secondary_category": { "blog": "Blog" },
+  "upgrade_pro": "https://www.themeinwp.com/theme/blogexpress-pro/"
+}

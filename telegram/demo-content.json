@@ -1,1 +1,31 @@
-eyJpbXBvcnRfZmlsZXMiOlt7ImltcG9ydF9maWxlX25hbWUiOiJEZWZhdWx0IiwicHJldmlld19saW5rIjoiaHR0cHM6XC9cL2RlbW8udGhlbWVpbndwLmNvbVwvdGVsZWdyYW1cLyIsImRlbW9fc2x1ZyI6ImRlZmF1bHQiLCJpbXBvcnRfcHJldmlld19pbWFnZV91cmwiOiJodHRwczpcL1wvZ2l0bGFiLmNvbVwvYXBpXC92NFwvcHJvamVjdHNcLzIwNzI0NjIwXC9yZXBvc2l0b3J5XC9maWxlc1wvdGVsZWdyYW0lMkZkZWZhdWx0JTJGc2NyZWVuc2hvdFwvcmF3XC8/cmVmPW1hc3RlciIsInByaW1hcnlfY2F0ZWdvcnlfaWQiOlsiZnJlZSJdLCJzZWNvbmRhcnlfY2F0ZWdvcnlfaWQiOlsibWFnYXppbmUiXX0seyJpbXBvcnRfZmlsZV9uYW1lIjoiVGVsZWdyYW0gUHJvIE1haW4iLCJwcmV2aWV3X2xpbmsiOiJodHRwczpcL1wvZGVtby50aGVtZWlud3AuY29tXC90ZWxlZ3JhbVwvcHJvXC8iLCJpbXBvcnRfcHJldmlld19pbWFnZV91cmwiOiJodHRwczpcL1wvZ2l0bGFiLmNvbVwvYXBpXC92NFwvcHJvamVjdHNcLzIwNzI0NjIwXC9yZXBvc2l0b3J5XC9maWxlc1wvdGVsZWdyYW0lMkZ0ZWxlZ3JhbS1wcm8tbWFpbiUyRnNjcmVlbnNob3RcL3Jhd1wvP3JlZj1tYXN0ZXIiLCJwcmltYXJ5X2NhdGVnb3J5X2lkIjpbInBybyJdLCJzZWNvbmRhcnlfY2F0ZWdvcnlfaWQiOlsibWFnYXppbmUiXSwidGh1bWJuYWlsX3N0aWNrZXIiOiJwcm8ifSx7ImltcG9ydF9maWxlX25hbWUiOiJUZWxlZ3JhbSBQcm8gRmFzaGlvbiIsInByZXZpZXdfbGluayI6Imh0dHBzOlwvXC9kZW1vLnRoZW1laW53cC5jb21cL3RlbGVncmFtXC9wcm8tZmFzaGlvblwvIiwiaW1wb3J0X3ByZXZpZXdfaW1hZ2VfdXJsIjoiaHR0cHM6XC9cL2dpdGxhYi5jb21cL2FwaVwvdjRcL3Byb2plY3RzXC8yMDcyNDYyMFwvcmVwb3NpdG9yeVwvZmlsZXNcL3RlbGVncmFtJTJGdGVsZWdyYW0tcHJvLWZhc2hpb24lMkZzY3JlZW5zaG90XC9yYXdcLz9yZWY9bWFzdGVyIiwicHJpbWFyeV9jYXRlZ29yeV9pZCI6WyJwcm8iXSwic2Vjb25kYXJ5X2NhdGVnb3J5X2lkIjpbIm1hZ2F6aW5lIl0sInRodW1ibmFpbF9zdGlja2VyIjoicHJvIn1dLCJwcmltYXJ5X2NhdGVnb3J5Ijp7ImZyZWUiOiJGcmVlIiwicHJvIjoiUHJvIn0sInNlY29uZGFyeV9jYXRlZ29yeSI6eyJtYWdhemluZSI6Ik1hZ2F6aW5lIn0sInVwZ3JhZGVfcHJvIjoiaHR0cHM6XC9cL3d3dy50aGVtZWlud3AuY29tXC90aGVtZVwvdGVsZWdyYW0tcHJvXC8ifQ0K
+{
+  "import_files": [
+    {
+      "import_file_name": "Default",
+      "preview_link": "https://demo.themeinwp.com/telegram/",
+      "demo_slug": "default",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/telegram/default/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["magazine"]
+    },
+    {
+      "import_file_name": "Telegram Pro Main",
+      "preview_link": "https://demo.themeinwp.com/telegram/pro/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/telegram/telegram-pro-main/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["magazine"],
+      "thumbnail_sticker": "pro"
+    },
+    {
+      "import_file_name": "Telegram Pro Fashion",
+      "preview_link": "https://demo.themeinwp.com/telegram/pro-fashion/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/telegram/telegram-pro-fashion/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["magazine"],
+      "thumbnail_sticker": "pro"
+    }
+  ],
+  "primary_category": { "free": "Free", "pro": "Pro" },
+  "secondary_category": { "magazine": "Magazine" },
+  "upgrade_pro": "https://www.themeinwp.com/theme/telegram-pro/"
+}

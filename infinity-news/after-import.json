@@ -1,1 +1,7 @@
-eyJtZW51cyI6eyJpbmZpbml0eS1uZXdzLXByaW1hcnkiOiJQcmltYXJ5IE1lbnUiLCJpbmZpbml0eS1uZXdzLWZvb3RlciI6IkZvb3RlciBNZW51IiwiaW5maW5pdHktbmV3cy1zb2NpYWwiOiJTb2NpYWwgTWVudSJ9fQ==
+{
+  "menus": {
+    "infinity-news-primary": "Primary Menu",
+    "infinity-news-footer": "Footer Menu",
+    "infinity-news-social": "Social Menu"
+  }
+}

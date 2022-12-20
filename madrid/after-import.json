@@ -1,1 +1,7 @@
-eyJtZW51cyI6eyJtYWRyaWQtcHJpbWFyeS1tZW51IjoiUHJpbWFyeSBNZW51IiwibWFkcmlkLXNvY2lhbC1tZW51IjoiU29jaWFsIE1lbnUiLCJtYWRyaWQtZm9vdGVyLW1lbnUiOiJGb290ZXIgTWVudSJ9fQ==
+{
+  "menus": {
+    "madrid-primary-menu": "Primary Menu",
+    "madrid-social-menu": "Social Menu",
+    "madrid-footer-menu": "Footer Menu"
+  }
+}

@@ -1,1 +1,9 @@
-eyJtZW51cyI6eyJwcmltYXJ5LU1FTlUiOiJQcmltYXJ5IE1lbnUiLCJmb290ZXItbWVudSI6IkZvb3RlciBNZW51IiwidG9wLW1lbnUiOiJUb3AgTWVudSIsImNvc2lhbC1tZW51IjoiU29jaWFsIE1lbnUifSwiaG9tZSI6IkhvbWVwYWdlIn0=
+{
+  "menus": {
+    "primary-MENU": "Primary Menu",
+    "footer-menu": "Footer Menu",
+    "top-menu": "Top Menu",
+    "cosial-menu": "Social Menu"
+  },
+  "home": "Homepage"
+}

@@ -1,1 +1,7 @@
-eyJtZW51cyI6eyJtaW5pbWFsLXBob3RvZ3JhcGh5LXByaW1hcnktbWVudSI6IlByaW1hcnkgTWVudSIsIm1pbmltYWwtcGhvdG9ncmFwaHktc29jaWFsLW1lbnUiOiJTb2NpYWwgTWVudSJ9LCJob21lIjoiSG9tZXBhZ2UifQ==
+{
+  "menus": {
+    "minimal-photography-primary-menu": "Primary Menu",
+    "minimal-photography-social-menu": "Social Menu"
+  },
+  "home": "Homepage"
+}

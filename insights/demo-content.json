@@ -1,1 +1,55 @@
-eyJpbXBvcnRfZmlsZXMiOlt7ImltcG9ydF9maWxlX25hbWUiOiJkZWZhdWx0IiwicHJldmlld19saW5rIjoiaHR0cHM6XC9cL2RlbW8udGhlbWVpbndwLmNvbVwvaW5zaWdodHNcLyIsImRlbW9fc2x1ZyI6ImRlZmF1bHQiLCJpbXBvcnRfcHJldmlld19pbWFnZV91cmwiOiJodHRwczpcL1wvZ2l0bGFiLmNvbVwvYXBpXC92NFwvcHJvamVjdHNcLzIwNzI0NjIwXC9yZXBvc2l0b3J5XC9maWxlc1wvaW5zaWdodHMlMkZkZWZhdWx0JTJGc2NyZWVuc2hvdC5wbmdcL3Jhd1wvP3JlZj1tYXN0ZXIiLCJwcmltYXJ5X2NhdGVnb3J5X2lkIjpbImZyZWUiXSwic2Vjb25kYXJ5X2NhdGVnb3J5X2lkIjpbImJsb2ciXX0seyJpbXBvcnRfZmlsZV9uYW1lIjoic3BvcnQiLCJwcmV2aWV3X2xpbmsiOiJodHRwczpcL1wvZGVtby50aGVtZWlud3AuY29tXC9pbnNpZ2h0c1wvIiwiZGVtb19zbHVnIjoic3BvcnQiLCJpbXBvcnRfcHJldmlld19pbWFnZV91cmwiOiJodHRwczpcL1wvZ2l0bGFiLmNvbVwvYXBpXC92NFwvcHJvamVjdHNcLzIwNzI0NjIwXC9yZXBvc2l0b3J5XC9maWxlc1wvaW5zaWdodHMlMkZzcG9ydCUyRnNjcmVlbnNob3QucG5nXC9yYXdcLz9yZWY9bWFzdGVyIiwicHJpbWFyeV9jYXRlZ29yeV9pZCI6WyJmcmVlIl0sInNlY29uZGFyeV9jYXRlZ29yeV9pZCI6WyJibG9nIl19LHsiaW1wb3J0X2ZpbGVfbmFtZSI6InRyYXZlbCIsInByZXZpZXdfbGluayI6Imh0dHBzOlwvXC9kZW1vLnRoZW1laW53cC5jb21cL2luc2lnaHRzXC8iLCJkZW1vX3NsdWciOiJ0cmF2ZWwiLCJpbXBvcnRfcHJldmlld19pbWFnZV91cmwiOiJodHRwczpcL1wvZ2l0bGFiLmNvbVwvYXBpXC92NFwvcHJvamVjdHNcLzIwNzI0NjIwXC9yZXBvc2l0b3J5XC9maWxlc1wvaW5zaWdodHMlMkZ0cmF2ZWwlMkZzY3JlZW5zaG90LnBuZ1wvcmF3XC8/cmVmPW1hc3RlciIsInByaW1hcnlfY2F0ZWdvcnlfaWQiOlsiZnJlZSJdLCJzZWNvbmRhcnlfY2F0ZWdvcnlfaWQiOlsiYmxvZyJdfSx7ImltcG9ydF9maWxlX25hbWUiOiJwcm8tZGVmYXVsdCIsInByZXZpZXdfbGluayI6Imh0dHBzOlwvXC9kZW1vLnRoZW1laW53cC5jb21cL2luc2lnaHRzLXByb1wvIiwiaW1wb3J0X3ByZXZpZXdfaW1hZ2VfdXJsIjoiaHR0cHM6XC9cL2dpdGxhYi5jb21cL2FwaVwvdjRcL3Byb2plY3RzXC8yMDcyNDYyMFwvcmVwb3NpdG9yeVwvZmlsZXNcL2luc2lnaHRzJTJGcHJvLWRlZmF1bHQlMkZzY3JlZW5zaG90LnBuZ1wvcmF3XC8/cmVmPW1hc3RlciIsInByaW1hcnlfY2F0ZWdvcnlfaWQiOlsicHJvIl0sInNlY29uZGFyeV9jYXRlZ29yeV9pZCI6WyJibG9nIl0sInRodW1ibmFpbF9zdGlja2VyIjoiUHJvIn0seyJpbXBvcnRfZmlsZV9uYW1lIjoicHJvLWdsYW1vdXIiLCJwcmV2aWV3X2xpbmsiOiJodHRwczpcL1wvZGVtby50aGVtZWlud3AuY29tXC9pbnNpZ2h0cy1wcm9cLyIsImltcG9ydF9wcmV2aWV3X2ltYWdlX3VybCI6Imh0dHBzOlwvXC9naXRsYWIuY29tXC9hcGlcL3Y0XC9wcm9qZWN0c1wvMjA3MjQ2MjBcL3JlcG9zaXRvcnlcL2ZpbGVzXC9pbnNpZ2h0cyUyRnByby1nbGFtb3VyJTJGc2NyZWVuc2hvdC5wbmdcL3Jhd1wvP3JlZj1tYXN0ZXIiLCJwcmltYXJ5X2NhdGVnb3J5X2lkIjpbInBybyJdLCJzZWNvbmRhcnlfY2F0ZWdvcnlfaWQiOlsiYmxvZyJdLCJ0aHVtYm5haWxfc3RpY2tlciI6IlBybyJ9LHsiaW1wb3J0X2ZpbGVfbmFtZSI6InByby10ZWNobm9sb2d5IiwicHJldmlld19saW5rIjoiaHR0cHM6XC9cL2RlbW8udGhlbWVpbndwLmNvbVwvaW5zaWdodHMtcHJvXC8iLCJpbXBvcnRfcHJldmlld19pbWFnZV91cmwiOiJodHRwczpcL1wvZ2l0bGFiLmNvbVwvYXBpXC92NFwvcHJvamVjdHNcLzIwNzI0NjIwXC9yZXBvc2l0b3J5XC9maWxlc1wvaW5zaWdodHMlMkZwcm8tdGVjaG5vbG9neSUyRnNjcmVlbnNob3QucG5nXC9yYXdcLz9yZWY9bWFzdGVyIiwicHJpbWFyeV9jYXRlZ29yeV9pZCI6WyJwcm8iXSwic2Vjb25kYXJ5X2NhdGVnb3J5X2lkIjpbImJsb2ciXSwidGh1bWJuYWlsX3N0aWNrZXIiOiJQcm8ifV0sInByaW1hcnlfY2F0ZWdvcnkiOnsiZnJlZSI6IkZyZWUiLCJwcm8iOiJQcm8ifSwic2Vjb25kYXJ5X2NhdGVnb3J5Ijp7ImJsb2ciOiJCbG9nIn0sInVwZ3JhZGVfcHJvIjoiaHR0cHM6XC9cL3d3dy50aGVtZWlud3AuY29tXC90aGVtZVwvaW5zaWdodHMtcHJvXC8ifQ==
+{
+  "import_files": [
+    {
+      "import_file_name": "default",
+      "preview_link": "https://demo.themeinwp.com/insights/",
+      "demo_slug": "default",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/insights/default/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["blog"]
+    },
+    {
+      "import_file_name": "sport",
+      "preview_link": "https://demo.themeinwp.com/insights/",
+      "demo_slug": "sport",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/insights/sport/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["blog"]
+    },
+    {
+      "import_file_name": "travel",
+      "preview_link": "https://demo.themeinwp.com/insights/",
+      "demo_slug": "travel",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/insights/travel/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["blog"]
+    },
+    {
+      "import_file_name": "pro-default",
+      "preview_link": "https://demo.themeinwp.com/insights-pro/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/insights/pro-default/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["blog"],
+      "thumbnail_sticker": "Pro"
+    },
+    {
+      "import_file_name": "pro-glamour",
+      "preview_link": "https://demo.themeinwp.com/insights-pro/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/insights/pro-glamour/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["blog"],
+      "thumbnail_sticker": "Pro"
+    },
+    {
+      "import_file_name": "pro-technology",
+      "preview_link": "https://demo.themeinwp.com/insights-pro/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/insights/pro-technology/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["blog"],
+      "thumbnail_sticker": "Pro"
+    }
+  ],
+  "primary_category": { "free": "Free", "pro": "Pro" },
+  "secondary_category": { "blog": "Blog" },
+  "upgrade_pro": "https://www.themeinwp.com/theme/insights-pro/"
+}

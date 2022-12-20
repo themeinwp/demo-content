@@ -1,1 +1,6 @@
-eyJtZW51cyI6eyJtYXRlLXByaW1hcnktbWVudSI6IlByaW1hcnkgTWVudSIsIm1hdGUtc29jaWFsLW1lbnUiOiJTb2NpYWwgTWVudSJ9fQ==
+{
+  "menus": {
+    "mate-primary-menu": "Primary Menu",
+    "mate-social-menu": "Social Menu"
+  }
+}

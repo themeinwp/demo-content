@@ -1,1 +1,7 @@
-eyJtZW51cyI6eyJ0aGV2b2ljZS1wcmltYXJ5LW1lbnUiOiJQcmltYXJ5IE1lbnUiLCJ0aGV2b2ljZS1zb2NpYWwtbWVudSI6IlNvY2lhbCBNZW51In0sImhvbWUiOiJIb21lcGFnZSJ9
+{
+  "menus": {
+    "thevoice-primary-menu": "Primary Menu",
+    "thevoice-social-menu": "Social Menu"
+  },
+  "home": "Homepage"
+}

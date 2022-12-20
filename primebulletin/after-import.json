@@ -1,1 +1,7 @@
-eyJtZW51cyI6eyJwcmltZWJ1bGxldGluLXByaW1hcnktbWVudSI6IlByaW1hcnkgTWVudSIsInByaW1lYnVsbGV0aW4tc29jaWFsLW1lbnUiOiJTb2NpYWwgTWVudSJ9LCJob21lIjoiSG9tZXBhZ2UifQ==
+{
+  "menus": {
+    "primebulletin-primary-menu": "Primary Menu",
+    "primebulletin-social-menu": "Social Menu"
+  },
+  "home": "Homepage"
+}

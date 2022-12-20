@@ -1,1 +1,7 @@
-eyJtZW51cyI6eyJuZXdzaW5zaWdodHMtcHJpbWFyeS1tZW51IjoiUHJpbWFyeSBNZW51IiwibmV3c2luc2lnaHRzLXNvY2lhbC1tZW51IjoiU29jaWFsIE1lbnUifSwiaG9tZSI6IkhvbWVwYWdlIn0=
+{
+  "menus": {
+    "newsinsights-primary-menu": "Primary Menu",
+    "newsinsights-social-menu": "Social Menu"
+  },
+  "home": "Homepage"
+}

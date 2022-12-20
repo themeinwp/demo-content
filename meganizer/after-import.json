@@ -1,1 +1,6 @@
-eyJtZW51cyI6eyJtZWdhbml6ZXItcHJpbWFyeS1tZW51IjoiUHJpbWFyeSBNZW51IiwibWVnYW5pemVyLXNvY2lhbC1tZW51IjoiU29jaWFsIE1lbnUifX0=
+{
+  "menus": {
+    "meganizer-primary-menu": "Primary Menu",
+    "meganizer-social-menu": "Social Menu"
+  }
+}

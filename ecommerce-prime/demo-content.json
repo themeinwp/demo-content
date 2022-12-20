@@ -1,1 +1,15 @@
-eyJpbXBvcnRfZmlsZXMiOlt7ImltcG9ydF9maWxlX25hbWUiOiJEZWZhdWx0IiwicHJldmlld19saW5rIjoiaHR0cHM6XC9cL2RlbW8udGhlbWVpbndwLmNvbVwvZWNvbW1lcmNlLXByaW1lXC8iLCJkZW1vX3NsdWciOiJkZWZhdWx0IiwiaW1wb3J0X3ByZXZpZXdfaW1hZ2VfdXJsIjoiaHR0cHM6XC9cL2dpdGxhYi5jb21cL2FwaVwvdjRcL3Byb2plY3RzXC8yMDcyNDYyMFwvcmVwb3NpdG9yeVwvZmlsZXNcL2Vjb21tZXJjZS1wcmltZSUyRmRlZmF1bHQlMkZzY3JlZW5zaG90LnBuZ1wvcmF3XC8/cmVmPW1hc3RlciIsInByaW1hcnlfY2F0ZWdvcnlfaWQiOlsiZnJlZSJdLCJzZWNvbmRhcnlfY2F0ZWdvcnlfaWQiOlsiYmxvZyJdfV0sInByaW1hcnlfY2F0ZWdvcnkiOnsiZnJlZSI6IkZyZWUifSwic2Vjb25kYXJ5X2NhdGVnb3J5Ijp7ImJsb2ciOiJCbG9nIn0sInVwZ3JhZGVfcHJvIjoiaHR0cHM6XC9cL3d3dy50aGVtZWlud3AuY29tXC90aGVtZVwvZWNvbW1lcmNlLXByaW1lLXByb1wvIn0=
+{
+  "import_files": [
+    {
+      "import_file_name": "Default",
+      "preview_link": "https://demo.themeinwp.com/ecommerce-prime/",
+      "demo_slug": "default",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/ecommerce-prime/default/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["blog"]
+    }
+  ],
+  "primary_category": { "free": "Free" },
+  "secondary_category": { "blog": "Blog" },
+  "upgrade_pro": "https://www.themeinwp.com/theme/ecommerce-prime-pro/"
+}

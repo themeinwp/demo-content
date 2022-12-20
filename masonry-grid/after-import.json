@@ -1,1 +1,7 @@
-eyJtZW51cyI6eyJtYXNvbnJ5LWdyaWQtcHJpbWFyeS1tZW51IjoiUHJpbWFyeSBNZW51IiwibWFzb25yeS1ncmlkLXNvY2lhbC1tZW51IjoiU29jaWFsIE1lbnUifSwiaG9tZSI6IkhvbWVwYWdlIn0=
+{
+  "menus": {
+    "masonry-grid-primary-menu": "Primary Menu",
+    "masonry-grid-social-menu": "Social Menu"
+  },
+  "home": "Homepage"
+}

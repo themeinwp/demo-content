@@ -1,1 +1,23 @@
-eyJpbXBvcnRfZmlsZXMiOlt7ImltcG9ydF9maWxlX25hbWUiOiJKYXRyYSBGcmVlIiwicHJldmlld19saW5rIjoiaHR0cHM6XC9cL2xpdmUtcHJldmlldy50aGVtZWlud3AuY29tXC9qYXRyYVwvIiwiZGVtb19zbHVnIjoiZnJlZSIsImltcG9ydF9wcmV2aWV3X2ltYWdlX3VybCI6Imh0dHBzOlwvXC9naXRsYWIuY29tXC9hcGlcL3Y0XC9wcm9qZWN0c1wvMjA3MjQ2MjBcL3JlcG9zaXRvcnlcL2ZpbGVzXC9qYXRyYSUyRmZyZWUlMkZzY3JlZW5zaG90LnBuZ1wvcmF3XC8/cmVmPW1hc3RlciIsInByaW1hcnlfY2F0ZWdvcnlfaWQiOlsiZnJlZSJdLCJzZWNvbmRhcnlfY2F0ZWdvcnlfaWQiOlsibWFnYXppbmUiXX0seyJpbXBvcnRfZmlsZV9uYW1lIjoiSmF0cmEgUHJvIiwicHJldmlld19saW5rIjoiaHR0cHM6XC9cL2xpdmUtcHJldmlldy50aGVtZWlud3AuY29tXC9qYXRyYS1wcm9cLyIsImltcG9ydF9wcmV2aWV3X2ltYWdlX3VybCI6Imh0dHBzOlwvXC9naXRsYWIuY29tXC9hcGlcL3Y0XC9wcm9qZWN0c1wvMjA3MjQ2MjBcL3JlcG9zaXRvcnlcL2ZpbGVzXC9qYXRyYSUyRnBybyUyRnNjcmVlbnNob3QucG5nXC9yYXdcLz9yZWY9bWFzdGVyIiwicHJpbWFyeV9jYXRlZ29yeV9pZCI6WyJwcm8iXSwic2Vjb25kYXJ5X2NhdGVnb3J5X2lkIjpbIm1hZ2F6aW5lIl0sInRodW1ibmFpbF9zdGlja2VyIjoiUHJvIn1dLCJwcmltYXJ5X2NhdGVnb3J5Ijp7ImZyZWUiOiJGcmVlIiwicHJvIjoiUHJvIn0sInNlY29uZGFyeV9jYXRlZ29yeSI6eyJtYWdhemluZSI6Ik1hZ2F6aW5lIiwiYmxvZyI6IkJsb2cifSwidXBncmFkZV9wcm8iOiJodHRwczpcL1wvd3d3LnRoZW1laW53cC5jb21cL3RoZW1lXC9qYXRyYS1wcm9cLyJ9
+{
+  "import_files": [
+    {
+      "import_file_name": "Jatra Free",
+      "preview_link": "https://live-preview.themeinwp.com/jatra/",
+      "demo_slug": "free",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/jatra/free/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["magazine"]
+    },
+    {
+      "import_file_name": "Jatra Pro",
+      "preview_link": "https://live-preview.themeinwp.com/jatra-pro/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/jatra/pro/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["magazine"],
+      "thumbnail_sticker": "Pro"
+    }
+  ],
+  "primary_category": { "free": "Free", "pro": "Pro" },
+  "secondary_category": { "magazine": "Magazine", "blog": "Blog" },
+  "upgrade_pro": "https://www.themeinwp.com/theme/jatra-pro/"
+}

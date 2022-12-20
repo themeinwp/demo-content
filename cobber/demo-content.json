@@ -1,1 +1,39 @@
-eyJpbXBvcnRfZmlsZXMiOlt7ImltcG9ydF9maWxlX25hbWUiOiJGcmVlIiwicHJldmlld19saW5rIjoiaHR0cHM6XC9cL2RlbW8udGhlbWVpbndwLmNvbVwvY29iYmVyXC8iLCJkZW1vX3NsdWciOiJmcmVlIiwiaW1wb3J0X3ByZXZpZXdfaW1hZ2VfdXJsIjoiaHR0cHM6XC9cL2dpdGxhYi5jb21cL2FwaVwvdjRcL3Byb2plY3RzXC8yMDcyNDYyMFwvcmVwb3NpdG9yeVwvZmlsZXNcL2NvYmJlciUyRmZyZWUlMkZzY3JlZW5zaG90LnBuZ1wvcmF3XC8/cmVmPW1hc3RlciIsInByaW1hcnlfY2F0ZWdvcnlfaWQiOlsiZnJlZSJdLCJzZWNvbmRhcnlfY2F0ZWdvcnlfaWQiOlsiQmxvZyJdfSx7ImltcG9ydF9maWxlX25hbWUiOiJUcmF2ZWwiLCJwcmV2aWV3X2xpbmsiOiJodHRwczpcL1wvZGVtby50aGVtZWlud3AuY29tXC9jb2JiZXJcL3RyYXZlbFwvIiwiZGVtb19zbHVnIjoidHJhdmVsIiwiaW1wb3J0X3ByZXZpZXdfaW1hZ2VfdXJsIjoiaHR0cHM6XC9cL2dpdGxhYi5jb21cL2FwaVwvdjRcL3Byb2plY3RzXC8yMDcyNDYyMFwvcmVwb3NpdG9yeVwvZmlsZXNcL2NvYmJlciUyRnRyYXZlbCUyRnNjcmVlbnNob3QucG5nXC9yYXdcLz9yZWY9bWFzdGVyIiwicHJpbWFyeV9jYXRlZ29yeV9pZCI6WyJmcmVlIl0sInNlY29uZGFyeV9jYXRlZ29yeV9pZCI6WyJCbG9nIl19LHsiaW1wb3J0X2ZpbGVfbmFtZSI6IlBybyIsInByZXZpZXdfbGluayI6Imh0dHBzOlwvXC9kZW1vLnRoZW1laW53cC5jb21cL2NvYmJlclwvcHJvXC8iLCJpbXBvcnRfcHJldmlld19pbWFnZV91cmwiOiJodHRwczpcL1wvZ2l0bGFiLmNvbVwvYXBpXC92NFwvcHJvamVjdHNcLzIwNzI0NjIwXC9yZXBvc2l0b3J5XC9maWxlc1wvY29iYmVyJTJGcHJvJTJGc2NyZWVuc2hvdC5wbmdcL3Jhd1wvP3JlZj1tYXN0ZXIiLCJwcmltYXJ5X2NhdGVnb3J5X2lkIjpbInBybyJdLCJzZWNvbmRhcnlfY2F0ZWdvcnlfaWQiOlsiQmxvZyJdLCJ0aHVtYm5haWxfc3RpY2tlciI6IlBybyJ9LHsiaW1wb3J0X2ZpbGVfbmFtZSI6IkZvb2QiLCJwcmV2aWV3X2xpbmsiOiJodHRwczpcL1wvZGVtby50aGVtZWlud3AuY29tXC9jb2JiZXJcL2Zvb2RcLyIsImltcG9ydF9wcmV2aWV3X2ltYWdlX3VybCI6Imh0dHBzOlwvXC9naXRsYWIuY29tXC9hcGlcL3Y0XC9wcm9qZWN0c1wvMjA3MjQ2MjBcL3JlcG9zaXRvcnlcL2ZpbGVzXC9jb2JiZXIlMkZmb29kJTJGc2NyZWVuc2hvdC5wbmdcL3Jhd1wvP3JlZj1tYXN0ZXIiLCJwcmltYXJ5X2NhdGVnb3J5X2lkIjpbInBybyJdLCJzZWNvbmRhcnlfY2F0ZWdvcnlfaWQiOlsiQmxvZyJdLCJ0aHVtYm5haWxfc3RpY2tlciI6IlBybyJ9XSwicHJpbWFyeV9jYXRlZ29yeSI6eyJmcmVlIjoiRnJlZSIsInBybyI6IlBybyJ9LCJzZWNvbmRhcnlfY2F0ZWdvcnkiOnsiYmxvZyI6IkJsb2cifSwidXBncmFkZV9wcm8iOiJodHRwczpcL1wvd3d3LnRoZW1laW53cC5jb21cL3RoZW1lXC9jb2JiZXItcHJvXC8ifQ==
+{
+  "import_files": [
+    {
+      "import_file_name": "Free",
+      "preview_link": "https://demo.themeinwp.com/cobber/",
+      "demo_slug": "free",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/cobber/free/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["Blog"]
+    },
+    {
+      "import_file_name": "Travel",
+      "preview_link": "https://demo.themeinwp.com/cobber/travel/",
+      "demo_slug": "travel",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/cobber/travel/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["Blog"]
+    },
+    {
+      "import_file_name": "Pro",
+      "preview_link": "https://demo.themeinwp.com/cobber/pro/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/cobber/pro/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["Blog"],
+      "thumbnail_sticker": "Pro"
+    },
+    {
+      "import_file_name": "Food",
+      "preview_link": "https://demo.themeinwp.com/cobber/food/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/cobber/food/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["Blog"],
+      "thumbnail_sticker": "Pro"
+    }
+  ],
+  "primary_category": { "free": "Free", "pro": "Pro" },
+  "secondary_category": { "blog": "Blog" },
+  "upgrade_pro": "https://www.themeinwp.com/theme/cobber-pro/"
+}

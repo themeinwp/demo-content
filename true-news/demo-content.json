@@ -1,1 +1,55 @@
-eyJpbXBvcnRfZmlsZXMiOlt7ImltcG9ydF9maWxlX25hbWUiOiJGcmVlIiwicHJldmlld19saW5rIjoiaHR0cHM6XC9cL3ByZXZpZXcudGhlbWVpbndwLmNvbVwvdHJ1ZS1uZXdzXC8iLCJkZW1vX3NsdWciOiJmcmVlIiwiaW1wb3J0X3ByZXZpZXdfaW1hZ2VfdXJsIjoiaHR0cHM6XC9cL2dpdGxhYi5jb21cL2FwaVwvdjRcL3Byb2plY3RzXC8yMDcyNDYyMFwvcmVwb3NpdG9yeVwvZmlsZXNcL3RydWUtbmV3cyUyRmZyZWUlMkZzY3JlZW5zaG90LnBuZ1wvcmF3XC8/cmVmPW1hc3RlciIsInByaW1hcnlfY2F0ZWdvcnlfaWQiOlsiZnJlZSJdLCJzZWNvbmRhcnlfY2F0ZWdvcnlfaWQiOlsiQmxvZyIsIm1hZ2F6aW5lIl19LHsiaW1wb3J0X2ZpbGVfbmFtZSI6IlBybyIsInByZXZpZXdfbGluayI6Imh0dHBzOlwvXC9kZW1vLnRoZW1laW53cC5jb21cL3RydWUtbmV3cy1wcm9cLyIsImltcG9ydF9wcmV2aWV3X2ltYWdlX3VybCI6Imh0dHBzOlwvXC9naXRsYWIuY29tXC9hcGlcL3Y0XC9wcm9qZWN0c1wvMjA3MjQ2MjBcL3JlcG9zaXRvcnlcL2ZpbGVzXC90cnVlLW5ld3MlMkZwcm8lMkZzY3JlZW5zaG90LnBuZ1wvcmF3XC8/cmVmPW1hc3RlciIsInByaW1hcnlfY2F0ZWdvcnlfaWQiOlsicHJvIl0sInNlY29uZGFyeV9jYXRlZ29yeV9pZCI6WyJibG9nIiwibWFnYXppbmUiXSwidGh1bWJuYWlsX3N0aWNrZXIiOiJQcm8ifSx7ImltcG9ydF9maWxlX25hbWUiOiJTcG9ydCIsInByZXZpZXdfbGluayI6Imh0dHBzOlwvXC9kZW1vLnRoZW1laW53cC5jb21cL3RydWUtc3BvcnRzLXByb1wvIiwiaW1wb3J0X3ByZXZpZXdfaW1hZ2VfdXJsIjoiaHR0cHM6XC9cL2dpdGxhYi5jb21cL2FwaVwvdjRcL3Byb2plY3RzXC8yMDcyNDYyMFwvcmVwb3NpdG9yeVwvZmlsZXNcL3RydWUtbmV3cyUyRnNwb3J0JTJGc2NyZWVuc2hvdC5wbmdcL3Jhd1wvP3JlZj1tYXN0ZXIiLCJwcmltYXJ5X2NhdGVnb3J5X2lkIjpbInBybyJdLCJzZWNvbmRhcnlfY2F0ZWdvcnlfaWQiOlsiYmxvZyIsIm1hZ2F6aW5lIl0sInRodW1ibmFpbF9zdGlja2VyIjoiUHJvIn0seyJpbXBvcnRfZmlsZV9uYW1lIjoiVHJhdmVsIiwicHJldmlld19saW5rIjoiaHR0cHM6XC9cL2RlbW8udGhlbWVpbndwLmNvbVwvdHJ1ZS10cmF2ZWxcLyIsImltcG9ydF9wcmV2aWV3X2ltYWdlX3VybCI6Imh0dHBzOlwvXC9naXRsYWIuY29tXC9hcGlcL3Y0XC9wcm9qZWN0c1wvMjA3MjQ2MjBcL3JlcG9zaXRvcnlcL2ZpbGVzXC90cnVlLW5ld3MlMkZ0cmF2ZWwlMkZzY3JlZW5zaG90LnBuZ1wvcmF3XC8/cmVmPW1hc3RlciIsInByaW1hcnlfY2F0ZWdvcnlfaWQiOlsicHJvIl0sInNlY29uZGFyeV9jYXRlZ29yeV9pZCI6WyJibG9nIiwibWFnYXppbmUiXSwidGh1bWJuYWlsX3N0aWNrZXIiOiJQcm8ifSx7ImltcG9ydF9maWxlX25hbWUiOiJCbG9nIiwicHJldmlld19saW5rIjoiaHR0cHM6XC9cL2RlbW8udGhlbWVpbndwLmNvbVwvdHJ1ZS1ibG9nXC8iLCJpbXBvcnRfcHJldmlld19pbWFnZV91cmwiOiJodHRwczpcL1wvZ2l0bGFiLmNvbVwvYXBpXC92NFwvcHJvamVjdHNcLzIwNzI0NjIwXC9yZXBvc2l0b3J5XC9maWxlc1wvdHJ1ZS1uZXdzJTJGYmxvZyUyRnNjcmVlbnNob3QucG5nXC9yYXdcLz9yZWY9bWFzdGVyIiwicHJpbWFyeV9jYXRlZ29yeV9pZCI6WyJwcm8iXSwic2Vjb25kYXJ5X2NhdGVnb3J5X2lkIjpbImJsb2ciLCJtYWdhemluZSJdLCJ0aHVtYm5haWxfc3RpY2tlciI6IlBybyJ9LHsiaW1wb3J0X2ZpbGVfbmFtZSI6IkJsb2ciLCJwcmV2aWV3X2xpbmsiOiJodHRwczpcL1wvZGVtby50aGVtZWlud3AuY29tXC90cnVlLWJsb2dcLyIsImltcG9ydF9wcmV2aWV3X2ltYWdlX3VybCI6Imh0dHBzOlwvXC9naXRsYWIuY29tXC9hcGlcL3Y0XC9wcm9qZWN0c1wvMjA3MjQ2MjBcL3JlcG9zaXRvcnlcL2ZpbGVzXC90cnVlLW5ld3MlMkZibG9nJTJGc2NyZWVuc2hvdC5wbmdcL3Jhd1wvP3JlZj1tYXN0ZXIiLCJwcmltYXJ5X2NhdGVnb3J5X2lkIjpbInBybyJdLCJzZWNvbmRhcnlfY2F0ZWdvcnlfaWQiOlsiYmxvZyIsIm1hZ2F6aW5lIl0sInRodW1ibmFpbF9zdGlja2VyIjoiUHJvIn1dLCJwcmltYXJ5X2NhdGVnb3J5Ijp7ImZyZWUiOiJGcmVlIiwicHJvIjoiUHJvIn0sInNlY29uZGFyeV9jYXRlZ29yeSI6eyJibG9nIjoiQmxvZyIsIm1hZ2F6aW5lIjoiTWFnYXppbmUifSwidXBncmFkZV9wcm8iOiJodHRwczpcL1wvd3d3LnRoZW1laW53cC5jb21cL3RoZW1lXC90cnVlLW5ld3MtcHJvXC8ifQ==
+{
+  "import_files": [
+    {
+      "import_file_name": "Free",
+      "preview_link": "https://preview.themeinwp.com/true-news/",
+      "demo_slug": "free",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/true-news/free/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["Blog", "magazine"]
+    },
+    {
+      "import_file_name": "Pro",
+      "preview_link": "https://demo.themeinwp.com/true-news-pro/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/true-news/pro/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["blog", "magazine"],
+      "thumbnail_sticker": "Pro"
+    },
+    {
+      "import_file_name": "Sport",
+      "preview_link": "https://demo.themeinwp.com/true-sports-pro/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/true-news/sport/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["blog", "magazine"],
+      "thumbnail_sticker": "Pro"
+    },
+    {
+      "import_file_name": "Travel",
+      "preview_link": "https://demo.themeinwp.com/true-travel/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/true-news/travel/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["blog", "magazine"],
+      "thumbnail_sticker": "Pro"
+    },
+    {
+      "import_file_name": "Blog",
+      "preview_link": "https://demo.themeinwp.com/true-blog/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/true-news/blog/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["blog", "magazine"],
+      "thumbnail_sticker": "Pro"
+    },
+    {
+      "import_file_name": "Blog",
+      "preview_link": "https://demo.themeinwp.com/true-blog/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/true-news/blog/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["blog", "magazine"],
+      "thumbnail_sticker": "Pro"
+    }
+  ],
+  "primary_category": { "free": "Free", "pro": "Pro" },
+  "secondary_category": { "blog": "Blog", "magazine": "Magazine" },
+  "upgrade_pro": "https://www.themeinwp.com/theme/true-news-pro/"
+}

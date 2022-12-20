@@ -1,1 +1,6 @@
-eyJtZW51cyI6eyJjdXRpZS1waWUtcHJpbWFyeS1tZW51IjoiUHJpbWFyeSBNZW51IiwiY3V0aWUtcGllLXNvY2lhbC1tZW51IjoiU29jaWFsIE1lbnUifX0=
+{
+  "menus": {
+    "cutie-pie-primary-menu": "Primary Menu",
+    "cutie-pie-social-menu": "Social Menu"
+  }
+}

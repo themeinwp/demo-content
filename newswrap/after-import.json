@@ -1,1 +1,6 @@
-eyJtZW51cyI6eyJuZXdzd3JhcC1wcmltYXJ5LW1lbnUiOiJQcmltYXJ5IE1lbnUiLCJuZXdzd3JhcC1zb2NpYWwtbWVudSI6IlNvY2lhbCBNZW51In19
+{
+  "menus": {
+    "newswrap-primary-menu": "Primary Menu",
+    "newswrap-social-menu": "Social Menu"
+  }
+}

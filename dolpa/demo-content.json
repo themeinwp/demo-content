@@ -1,1 +1,55 @@
-eyJpbXBvcnRfZmlsZXMiOlt7ImltcG9ydF9maWxlX25hbWUiOiJEZWZhdWx0IiwicHJldmlld19saW5rIjoiaHR0cHM6XC9cL2RlbW8udGhlbWVpbndwLmNvbVwvZG9scGFcLyIsImRlbW9fc2x1ZyI6ImRlZmF1bHQiLCJpbXBvcnRfcHJldmlld19pbWFnZV91cmwiOiJodHRwczpcL1wvZ2l0bGFiLmNvbVwvYXBpXC92NFwvcHJvamVjdHNcLzIwNzI0NjIwXC9yZXBvc2l0b3J5XC9maWxlc1wvZG9scGElMkZkZWZhdWx0JTJGc2NyZWVuc2hvdC5wbmdcL3Jhd1wvP3JlZj1tYXN0ZXIiLCJwcmltYXJ5X2NhdGVnb3J5X2lkIjpbImZyZWUiXSwic2Vjb25kYXJ5X2NhdGVnb3J5X2lkIjpbImJsb2ciXX0seyJpbXBvcnRfZmlsZV9uYW1lIjoiRmFzaGlvbiIsInByZXZpZXdfbGluayI6Imh0dHBzOlwvXC9kZW1vLnRoZW1laW53cC5jb21cL2RvbHBhXC9mYXNoaW9uIiwiZGVtb19zbHVnIjoiZmFzaGlvbiIsImltcG9ydF9wcmV2aWV3X2ltYWdlX3VybCI6Imh0dHBzOlwvXC9naXRsYWIuY29tXC9hcGlcL3Y0XC9wcm9qZWN0c1wvMjA3MjQ2MjBcL3JlcG9zaXRvcnlcL2ZpbGVzXC9kb2xwYSUyRmZhc2hpb24lMkZzY3JlZW5zaG90LnBuZ1wvcmF3XC8/cmVmPW1hc3RlciIsInByaW1hcnlfY2F0ZWdvcnlfaWQiOlsiZnJlZSJdLCJzZWNvbmRhcnlfY2F0ZWdvcnlfaWQiOlsiYmxvZyJdfSx7ImltcG9ydF9maWxlX25hbWUiOiJQcm8gRGVmYXVsdCIsInByZXZpZXdfbGluayI6Imh0dHBzOlwvXC9kZW1vLnRoZW1laW53cC5jb21cL2RvbHBhXC9wcm9cLyIsImltcG9ydF9wcmV2aWV3X2ltYWdlX3VybCI6Imh0dHBzOlwvXC9naXRsYWIuY29tXC9hcGlcL3Y0XC9wcm9qZWN0c1wvMjA3MjQ2MjBcL3JlcG9zaXRvcnlcL2ZpbGVzXC9kb2xwYSUyRnByby1kZWZhdWx0JTJGc2NyZWVuc2hvdC5wbmdcL3Jhd1wvP3JlZj1tYXN0ZXIiLCJwcmltYXJ5X2NhdGVnb3J5X2lkIjpbInBybyJdLCJzZWNvbmRhcnlfY2F0ZWdvcnlfaWQiOlsiYmxvZyJdLCJ0aHVtYm5haWxfc3RpY2tlciI6IlBybyJ9LHsiaW1wb3J0X2ZpbGVfbmFtZSI6IlNwb3J0IiwicHJldmlld19saW5rIjoiaHR0cHM6XC9cL2RlbW8udGhlbWVpbndwLmNvbVwvZG9scGFcL3Nwb3J0c1wvIiwiaW1wb3J0X3ByZXZpZXdfaW1hZ2VfdXJsIjoiaHR0cHM6XC9cL2dpdGxhYi5jb21cL2FwaVwvdjRcL3Byb2plY3RzXC8yMDcyNDYyMFwvcmVwb3NpdG9yeVwvZmlsZXNcL2RvbHBhJTJGcHJvLXNwb3J0JTJGc2NyZWVuc2hvdC5wbmdcL3Jhd1wvP3JlZj1tYXN0ZXIiLCJwcmltYXJ5X2NhdGVnb3J5X2lkIjpbInBybyJdLCJzZWNvbmRhcnlfY2F0ZWdvcnlfaWQiOlsiYmxvZyJdLCJ0aHVtYm5haWxfc3RpY2tlciI6IlBybyJ9LHsiaW1wb3J0X2ZpbGVfbmFtZSI6IlRyYXZlbCIsInByZXZpZXdfbGluayI6Imh0dHBzOlwvXC9kZW1vLnRoZW1laW53cC5jb21cL2RvbHBhXC90cmF2ZWxcLyIsImltcG9ydF9wcmV2aWV3X2ltYWdlX3VybCI6Imh0dHBzOlwvXC9naXRsYWIuY29tXC9hcGlcL3Y0XC9wcm9qZWN0c1wvMjA3MjQ2MjBcL3JlcG9zaXRvcnlcL2ZpbGVzXC9kb2xwYSUyRnByby10cmF2ZWwlMkZzY3JlZW5zaG90LnBuZ1wvcmF3XC8/cmVmPW1hc3RlciIsInByaW1hcnlfY2F0ZWdvcnlfaWQiOlsicHJvIl0sInNlY29uZGFyeV9jYXRlZ29yeV9pZCI6WyJibG9nIl0sInRodW1ibmFpbF9zdGlja2VyIjoiUHJvIn0seyJpbXBvcnRfZmlsZV9uYW1lIjoiTWluaW1hbCIsInByZXZpZXdfbGluayI6Imh0dHBzOlwvXC9kZW1vLnRoZW1laW53cC5jb21cL2RvbHBhXC9taW5pbWFsLWJsb2dcLyIsImltcG9ydF9wcmV2aWV3X2ltYWdlX3VybCI6Imh0dHBzOlwvXC9naXRsYWIuY29tXC9hcGlcL3Y0XC9wcm9qZWN0c1wvMjA3MjQ2MjBcL3JlcG9zaXRvcnlcL2ZpbGVzXC9kb2xwYSUyRnByby1taW5pbWFsJTJGc2NyZWVuc2hvdC5wbmdcL3Jhd1wvP3JlZj1tYXN0ZXIiLCJwcmltYXJ5X2NhdGVnb3J5X2lkIjpbInBybyJdLCJzZWNvbmRhcnlfY2F0ZWdvcnlfaWQiOlsiYmxvZyJdLCJ0aHVtYm5haWxfc3RpY2tlciI6IlBybyJ9XSwicHJpbWFyeV9jYXRlZ29yeSI6eyJmcmVlIjoiRnJlZSIsInBybyI6IlBybyJ9LCJzZWNvbmRhcnlfY2F0ZWdvcnkiOnsiYmxvZyI6IkJsb2cifSwidXBncmFkZV9wcm8iOiJodHRwczpcL1wvd3d3LnRoZW1laW53cC5jb21cL3RoZW1lXC9kb2xwYS1wcm9cLyJ9
+{
+  "import_files": [
+    {
+      "import_file_name": "Default",
+      "preview_link": "https://demo.themeinwp.com/dolpa/",
+      "demo_slug": "default",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/dolpa/default/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["blog"]
+    },
+    {
+      "import_file_name": "Fashion",
+      "preview_link": "https://demo.themeinwp.com/dolpa/fashion",
+      "demo_slug": "fashion",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/dolpa/fashion/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["blog"]
+    },
+    {
+      "import_file_name": "Pro Default",
+      "preview_link": "https://demo.themeinwp.com/dolpa/pro/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/dolpa/pro-default/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["blog"],
+      "thumbnail_sticker": "Pro"
+    },
+    {
+      "import_file_name": "Sport",
+      "preview_link": "https://demo.themeinwp.com/dolpa/sports/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/dolpa/pro-sport/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["blog"],
+      "thumbnail_sticker": "Pro"
+    },
+    {
+      "import_file_name": "Travel",
+      "preview_link": "https://demo.themeinwp.com/dolpa/travel/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/dolpa/pro-travel/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["blog"],
+      "thumbnail_sticker": "Pro"
+    },
+    {
+      "import_file_name": "Minimal",
+      "preview_link": "https://demo.themeinwp.com/dolpa/minimal-blog/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/dolpa/pro-minimal/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["blog"],
+      "thumbnail_sticker": "Pro"
+    }
+  ],
+  "primary_category": { "free": "Free", "pro": "Pro" },
+  "secondary_category": { "blog": "Blog" },
+  "upgrade_pro": "https://www.themeinwp.com/theme/dolpa-pro/"
+}

@@ -1,1 +1,7 @@
-eyJtZW51cyI6eyJ3ZWRldnN0dWRpb3Mtc3RhcnRlci1wcmltYXJ5LW1lbnUiOiJQcmltYXJ5IE1lbnUiLCJ3ZWRldnN0dWRpb3Mtc3RhcnRlci10b3AtbWVudSI6IlRvcCBNZW51In19
+{
+  "menus": {
+    "blogexpress-primary-menu": "Primary Menu",
+    "blogexpress-top-menu": "Top Menu",
+    "blogexpress-social-menu": "Social Menu"
+  }
+}

@@ -1,1 +1,27 @@
-eyJpbXBvcnRfZmlsZXMiOlt7ImltcG9ydF9maWxlX25hbWUiOiJmcmVlIiwicHJldmlld19saW5rIjoiaHR0cHM6XC9cL2RlbW8udGhlbWVpbndwLmNvbVwvYmxvZ2dpbmdcLyIsImRlbW9fc2x1ZyI6ImZyZWUiLCJpbXBvcnRfcHJldmlld19pbWFnZV91cmwiOiJodHRwczpcL1wvZ2l0bGFiLmNvbVwvYXBpXC92NFwvcHJvamVjdHNcLzIwNzI0NjIwXC9yZXBvc2l0b3J5XC9maWxlc1wvdGhlLWJsb2dnaW5nJTJGZnJlZSUyRnNjcmVlbnNob3QucG5nXC9yYXdcLz9yZWY9bWFzdGVyIiwicHJpbWFyeV9jYXRlZ29yeV9pZCI6WyJmcmVlIl0sInNlY29uZGFyeV9jYXRlZ29yeV9pZCI6WyJtYWdhemluZSJdfSx7ImltcG9ydF9maWxlX25hbWUiOiJQcm8iLCJwcmV2aWV3X2xpbmsiOiJodHRwczpcL1wvZGVtby50aGVtZWlud3AuY29tXC9ibG9nZ2luZy1wcm9cLyIsImltcG9ydF9wcmV2aWV3X2ltYWdlX3VybCI6Imh0dHBzOlwvXC9naXRsYWIuY29tXC9hcGlcL3Y0XC9wcm9qZWN0c1wvMjA3MjQ2MjBcL3JlcG9zaXRvcnlcL2ZpbGVzXC90aGUtYmxvZ2dpbmclMkZwcm8lMkZzY3JlZW5zaG90LnBuZ1wvcmF3XC8/cmVmPW1hc3RlciIsInByaW1hcnlfY2F0ZWdvcnlfaWQiOlsicHJvIl0sInNlY29uZGFyeV9jYXRlZ29yeV9pZCI6WyJtYWdhemluZSJdLCJ0aHVtYm5haWxfc3RpY2tlciI6IlBybyJ9XSwicHJpbWFyeV9jYXRlZ29yeSI6eyJmcmVlIjoiRnJlZSIsInBybyI6IlBybyJ9LCJzZWNvbmRhcnlfY2F0ZWdvcnkiOnsibWFnYXppbmUiOiJNYWdhemluZSIsImJsb2ciOiJCbG9nIiwiYnVzaW5lc3MiOiJCdXNpbmVzcyJ9LCJ1cGdyYWRlX3BybyI6Imh0dHBzOlwvXC9kZW1vLnRoZW1laW53cC5jb21cL2Jsb2dnaW5nLXByb1wvIn0=
+{
+  "import_files": [
+    {
+      "import_file_name": "free",
+      "preview_link": "https://demo.themeinwp.com/blogging/",
+      "demo_slug": "free",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/the-blogging/free/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["magazine"]
+    },
+    {
+      "import_file_name": "Pro",
+      "preview_link": "https://demo.themeinwp.com/blogging-pro/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/the-blogging/pro/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["magazine"],
+      "thumbnail_sticker": "Pro"
+    }
+  ],
+  "primary_category": { "free": "Free", "pro": "Pro" },
+  "secondary_category": {
+    "magazine": "Magazine",
+    "blog": "Blog",
+    "business": "Business"
+  },
+  "upgrade_pro": "https://demo.themeinwp.com/blogging-pro/"
+}

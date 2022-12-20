@@ -1,1 +1,6 @@
-eyJtZW51cyI6eyJkaGltYXktcHJpbWFyeS1tZW51IjoiUHJpbWFyeSBNZW51IiwiZGhpbWF5LXNvY2lhbC1tZW51IjoiU29jaWFsIE1lbnUifX0=
+{
+  "menus": {
+    "dhimay-primary-menu": "Primary Menu",
+    "dhimay-social-menu": "Social Menu"
+  }
+}

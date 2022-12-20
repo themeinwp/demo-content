@@ -1,1 +1,6 @@
-eyJtZW51cyI6eyJtYWdsdXgtcHJpbWFyeS1tZW51IjoiUHJpbWFyeSBNZW51IiwibWFnbHV4LXNvY2lhbC1tZW51IjoiU29jaWFsIE1lbnUifX0=
+{
+  "menus": {
+    "maglux-primary-menu": "Primary Menu",
+    "maglux-social-menu": "Social Menu"
+  }
+}
