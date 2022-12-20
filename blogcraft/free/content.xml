@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.1.1" created="2022-12-20 11:20" -->
+	<!-- generator="WordPress/6.1.1" created="2022-12-20 11:42" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Blogcraft</title>
 	<link>https://live-preview.themeinwp.com/blogcraft</link>
 	<description>Impossible is for the unwilling</description>
-	<pubDate>Tue, 20 Dec 2022 11:20:28 +0000</pubDate>
+	<pubDate>Tue, 20 Dec 2022 11:42:52 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://live-preview.themeinwp.com/</wp:base_site_url>
@@ -464,18 +464,18 @@
 		<wp:term_name><![CDATA[disruption]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[51]]></wp:term_id>
-		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[entertainment]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[entertainment]]></wp:term_name>
-	</wp:term>
-		<wp:term>
 		<wp:term_id><![CDATA[49]]></wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[entertainment]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Entertainment]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id><![CDATA[51]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[entertainment]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[entertainment]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id><![CDATA[32]]></wp:term_id>
@@ -590,18 +590,18 @@
 		<wp:term_name><![CDATA[movie]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[58]]></wp:term_id>
-		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[music]]></wp:term_slug>
-		<wp:term_parent><![CDATA[entertainment]]></wp:term_parent>
-		<wp:term_name><![CDATA[Music]]></wp:term_name>
-	</wp:term>
-		<wp:term>
 		<wp:term_id><![CDATA[59]]></wp:term_id>
 		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[music]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[music]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id><![CDATA[58]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[music]]></wp:term_slug>
+		<wp:term_parent><![CDATA[entertainment]]></wp:term_parent>
+		<wp:term_name><![CDATA[Music]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id><![CDATA[39]]></wp:term_id>
@@ -632,18 +632,18 @@
 		<wp:term_name><![CDATA[passion]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[34]]></wp:term_id>
-		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[politics]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[politics]]></wp:term_name>
-	</wp:term>
-		<wp:term>
 		<wp:term_id><![CDATA[33]]></wp:term_id>
 		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[politics]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Politics]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id><![CDATA[34]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[post_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[politics]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[politics]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id><![CDATA[65]]></wp:term_id>
@@ -4222,8 +4222,8 @@ https://www.youtube.com/watch?v=B5unCXpegAw&amp;ab_channel=NatureRelaxationFilms
 		<category domain="post_tag" nicename="football"><![CDATA[football]]></category>
 		<category domain="category" nicename="soccer"><![CDATA[Soccer]]></category>
 		<category domain="post_tag" nicename="soccer"><![CDATA[soccer]]></category>
-		<category domain="category" nicename="sports"><![CDATA[Sports]]></category>
 		<category domain="post_tag" nicename="sports"><![CDATA[sports]]></category>
+		<category domain="category" nicename="sports"><![CDATA[Sports]]></category>
 		<category domain="post_tag" nicename="world-cup"><![CDATA[world cup]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_64793f179e4d7379db7b39076dfd07a2]]></wp:meta_key>
@@ -4632,8 +4632,8 @@ https://www.youtube.com/watch?v=B5unCXpegAw&amp;ab_channel=NatureRelaxationFilms
 		<category domain="post_tag" nicename="bicycle-day"><![CDATA[bicycle day]]></category>
 		<category domain="category" nicename="cycling"><![CDATA[Cycling]]></category>
 		<category domain="post_tag" nicename="cycling"><![CDATA[cycling]]></category>
-		<category domain="category" nicename="sports"><![CDATA[Sports]]></category>
 		<category domain="post_tag" nicename="sports"><![CDATA[sports]]></category>
+		<category domain="category" nicename="sports"><![CDATA[Sports]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_64793f179e4d7379db7b39076dfd07a2]]></wp:meta_key>
 		<wp:meta_value><![CDATA[<iframe title="TRAVEL AROUND JAPAN (4K UHD) - Peaceful Piano Music With Beautiful Nature Video For Relaxation On TV" width="970" height="546" src="https://www.youtube.com/embed/7VPnuLcuqjI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></wp:meta_value>
