@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5ab7a77-2714-46b6-9341-216c484b9696" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/blogcraft/free/widget.json" beforeDir="false" afterPath="$PROJECT_DIR$/blogcraft/free/widget.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,31 +16,7 @@
     </execution>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alok/demo-content.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/infinity-mag/demo-content.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1290">
-              <caret line="86" selection-start-line="86" selection-end-line="86" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/infinity-mag/after-import.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -71,16 +47,6 @@
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/demo-content.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="25" />
     <option name="width" value="1680" />
@@ -102,23 +68,47 @@
             <path>
               <item name="demo-content" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo-content" type="462c0819:PsiDirectoryNode" />
+              <item name="allinone" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo-content" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-content" type="462c0819:PsiDirectoryNode" />
               <item name="alok" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="demo-content" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo-content" type="462c0819:PsiDirectoryNode" />
-              <item name="blogcraft" type="462c0819:PsiDirectoryNode" />
+              <item name="cutie-pie" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="demo-content" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo-content" type="462c0819:PsiDirectoryNode" />
-              <item name="blogcraft" type="462c0819:PsiDirectoryNode" />
-              <item name="free" type="462c0819:PsiDirectoryNode" />
+              <item name="dumbo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="demo-content" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo-content" type="462c0819:PsiDirectoryNode" />
-              <item name="infinity-mag" type="462c0819:PsiDirectoryNode" />
+              <item name="madrid" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo-content" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-content" type="462c0819:PsiDirectoryNode" />
+              <item name="maglux" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo-content" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-content" type="462c0819:PsiDirectoryNode" />
+              <item name="masterstroke" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo-content" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-content" type="462c0819:PsiDirectoryNode" />
+              <item name="meganizer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo-content" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-content" type="462c0819:PsiDirectoryNode" />
+              <item name="ruru" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -129,9 +119,14 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/blogcraft/free" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/blogcraft/free" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -159,18 +154,19 @@
       <workItem from="1670390042404" duration="2005000" />
       <workItem from="1671522185269" duration="1223000" />
       <workItem from="1671534118613" duration="364000" />
-      <workItem from="1671535437742" duration="673000" />
+      <workItem from="1671535437742" duration="1394000" />
+      <workItem from="1671705370055" duration="123000" />
+      <workItem from="1672654702483" duration="500000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5755000" />
+    <option name="totallyTimeSpent" value="7099000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1680" height="1025" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26190478" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26800978" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -183,7 +179,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32901832" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32901832" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -206,13 +202,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="606" selection-end-column="960" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/allinone/demo-content.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="29" selection-end-column="1164" />
         </state>
       </provider>
     </entry>
@@ -248,17 +237,72 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blogcraft/free/widget.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/infinity-mag/after-import.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogcraft/free/content.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogcraft/free/widget.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="47" selection-end-column="1318" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/madrid/demo-content.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/madrid/after-import.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maglux/after-import.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maglux/demo-content.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meganizer/demo-content.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meganizer/after-import.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cutie-pie/demo-content.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cutie-pie/after-import.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/masterstroke/after-import.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/masterstroke/demo-content.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dumbo/after-import.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dumbo/demo-content.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruru/after-import.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruru/demo-content.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allinone/after-import.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allinone/demo-content.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
         </state>
       </provider>
     </entry>
