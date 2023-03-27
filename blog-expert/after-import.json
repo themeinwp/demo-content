@@ -1,7 +1,7 @@
 {
   "menus": {
-    "top": "Top Nav",
-    "primary": "Primary",
+    "top": "Short",
+    "primary": "primary menu",
     "social": "Social Menu"
   },
   "home": "Homepage"
