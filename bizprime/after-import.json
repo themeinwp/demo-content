@@ -2,5 +2,6 @@
   "menus": {
     "primary": "Primary",
     "social": "Social Menu"
-  }
+  },
+  "home": "Homepage"
 }
