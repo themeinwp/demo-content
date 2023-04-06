@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5ab7a77-2714-46b6-9341-216c484b9696" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/magazine-shop/after-import.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magazine-shop/demo-content.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magazine-shop/free/content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magazine-shop/free/customizer.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magazine-shop/free/screenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magazine-shop/free/widget.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magazine-shop/pro/screenshot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d5ab7a77-2714-46b6-9341-216c484b9696" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,34 +63,6 @@
             <path>
               <item name="demo-content" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo-content" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo-content" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo-content" type="462c0819:PsiDirectoryNode" />
-              <item name="bizprime" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo-content" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo-content" type="462c0819:PsiDirectoryNode" />
-              <item name="bizprime" type="462c0819:PsiDirectoryNode" />
-              <item name="pro" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo-content" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo-content" type="462c0819:PsiDirectoryNode" />
-              <item name="blog-expert" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo-content" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo-content" type="462c0819:PsiDirectoryNode" />
-              <item name="blog-expert" type="462c0819:PsiDirectoryNode" />
-              <item name="free" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo-content" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo-content" type="462c0819:PsiDirectoryNode" />
-              <item name="blog-expert" type="462c0819:PsiDirectoryNode" />
-              <item name="pro" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="demo-content" type="b2602c69:ProjectViewProjectNode" />
@@ -227,12 +190,12 @@
       <workItem from="1679982029559" duration="23000" />
       <workItem from="1679984135251" duration="53000" />
       <workItem from="1680162777159" duration="41000" />
-      <workItem from="1680163909322" duration="142000" />
+      <workItem from="1680163909322" duration="275000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11360000" />
+    <option name="totallyTimeSpent" value="11493000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1680" height="1025" extended-state="0" />
