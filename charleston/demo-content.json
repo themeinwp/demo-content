@@ -1,0 +1,55 @@
+{
+  "import_files": [
+    {
+      "import_file_name": "Charleston Free",
+      "preview_link": "https://demo.themeinwp.com/charleston/",
+      "demo_slug": "free",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/charleston/free/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["magazine"]
+    },
+    {
+      "import_file_name": "Metro Blog (Pro)",
+      "preview_link": "https://demo.themeinwp.com/charleston/metro-blog/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/charleston/metro-blog/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["magazine"],
+      "thumbnail_sticker": "Pro"
+    },
+    {
+      "import_file_name": "Travel (Pro)",
+      "preview_link": "https://demo.themeinwp.com/charleston/travel/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/charleston/travel/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["magazine"],
+      "thumbnail_sticker": "Pro"
+    },
+    {
+      "import_file_name": "Fashion (Pro)",
+      "preview_link": "https://demo.themeinwp.com/charleston/fashion/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/charleston/fashion/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["magazine"],
+      "thumbnail_sticker": "Pro"
+    },
+    {
+      "import_file_name": "Cook Book (Pro)",
+      "preview_link": "https://demo.themeinwp.com/charleston/cook-book/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/charleston/cook-book/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["magazine"],
+      "thumbnail_sticker": "Pro"
+    },
+    {
+      "import_file_name": "Sports (Pro)",
+      "preview_link": "https://demo.themeinwp.com/charleston/sports/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/charleston/sports/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["magazine"],
+      "thumbnail_sticker": "Pro"
+    }
+  ],
+  "primary_category": { "free": "Free", "pro": "Pro" },
+  "secondary_category": { "magazine": "Magazine", "blog": "Blog" },
+  "upgrade_pro": "https://www.themeinwp.com/theme/charleston-pro/"
+}
