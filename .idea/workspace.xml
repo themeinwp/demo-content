@@ -14,7 +14,13 @@
     </execution>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/charleston/free/content.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -63,6 +69,17 @@
             <path>
               <item name="demo-content" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo-content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo-content" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-content" type="462c0819:PsiDirectoryNode" />
+              <item name="charleston" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo-content" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-content" type="462c0819:PsiDirectoryNode" />
+              <item name="charleston" type="462c0819:PsiDirectoryNode" />
+              <item name="free" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="demo-content" type="b2602c69:ProjectViewProjectNode" />
@@ -230,16 +247,17 @@
       <workItem from="1683714652336" duration="41000" />
       <workItem from="1683716634517" duration="44000" />
       <workItem from="1684389221828" duration="150000" />
+      <workItem from="1684925603433" duration="89000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11951000" />
+    <option name="totallyTimeSpent" value="12040000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1680" height="1025" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.37240538" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.37667888" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -399,6 +417,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/the-headlines/demo-content.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charleston/free/content.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
