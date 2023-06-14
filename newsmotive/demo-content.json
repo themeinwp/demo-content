@@ -1,0 +1,23 @@
+{
+  "import_files": [
+    {
+      "import_file_name": "Newsmotive Free",
+      "preview_link": "https://demo.themeinwp.net/newsmotive/",
+      "demo_slug": "free",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/newsmotive/free/screenshot.png",
+      "primary_category_id": ["free"],
+      "secondary_category_id": ["magazine"]
+    },
+    {
+      "import_file_name": "Newsmotive Pro",
+      "preview_link": "https://demo.themeinwp.net/newsmotive-pro/",
+      "import_preview_image_url": "https://raw.githubusercontent.com/themeinwp/demo-content/main/newsmotive/pro/screenshot.png",
+      "primary_category_id": ["pro"],
+      "secondary_category_id": ["magazine"],
+      "thumbnail_sticker": "Pro"
+    }
+  ],
+  "primary_category": { "free": "Free", "pro": "Pro" },
+  "secondary_category": { "magazine": "Magazine", "blog": "Blog" },
+  "upgrade_pro": "https://www.themeinwp.com/theme/newsmotive-pro/"
+}
