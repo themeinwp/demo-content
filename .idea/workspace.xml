@@ -72,34 +72,18 @@
             <path>
               <item name="demo-content" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo-content" type="462c0819:PsiDirectoryNode" />
-              <item name="blogmotive" type="462c0819:PsiDirectoryNode" />
+              <item name="eportfolio" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="demo-content" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo-content" type="462c0819:PsiDirectoryNode" />
-              <item name="blogmotive" type="462c0819:PsiDirectoryNode" />
-              <item name="pro" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo-content" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo-content" type="462c0819:PsiDirectoryNode" />
-              <item name="charleston" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo-content" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo-content" type="462c0819:PsiDirectoryNode" />
-              <item name="charleston" type="462c0819:PsiDirectoryNode" />
+              <item name="eportfolio" type="462c0819:PsiDirectoryNode" />
               <item name="free" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="demo-content" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo-content" type="462c0819:PsiDirectoryNode" />
-              <item name="coprint" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demo-content" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo-content" type="462c0819:PsiDirectoryNode" />
-              <item name="coprint" type="462c0819:PsiDirectoryNode" />
+              <item name="eportfolio" type="462c0819:PsiDirectoryNode" />
               <item name="pro" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -296,16 +280,17 @@
       <workItem from="1685532568108" duration="58000" />
       <workItem from="1686717352172" duration="49000" />
       <workItem from="1686809709627" duration="49000" />
+      <workItem from="1686812824612" duration="103000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12362000" />
+    <option name="totallyTimeSpent" value="12465000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1680" height="1025" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3956044" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.4004884" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -318,7 +303,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32901832" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32901832" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
