@@ -62,13 +62,34 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="demo-content" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo-content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo-content" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-content" type="462c0819:PsiDirectoryNode" />
+              <item name="blog-prime" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo-content" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-content" type="462c0819:PsiDirectoryNode" />
+              <item name="blogauthor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo-content" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-content" type="462c0819:PsiDirectoryNode" />
+              <item name="blogauthor" type="462c0819:PsiDirectoryNode" />
+              <item name="free" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo-content" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-content" type="462c0819:PsiDirectoryNode" />
+              <item name="blogauthor" type="462c0819:PsiDirectoryNode" />
+              <item name="pro" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="demo-content" type="b2602c69:ProjectViewProjectNode" />
@@ -211,6 +232,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -293,16 +315,17 @@
       <workItem from="1686809709627" duration="49000" />
       <workItem from="1686812824612" duration="103000" />
       <workItem from="1687261272039" duration="35000" />
+      <workItem from="1687839844370" duration="69000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12500000" />
+    <option name="totallyTimeSpent" value="12569000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1680" height="1025" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4053724" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.41025642" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
