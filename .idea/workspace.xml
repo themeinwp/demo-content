@@ -268,6 +268,17 @@
             <path>
               <item name="demo-content" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo-content" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolioxpress" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo-content" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-content" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolioxpress" type="462c0819:PsiDirectoryNode" />
+              <item name="pro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo-content" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-content" type="462c0819:PsiDirectoryNode" />
               <item name="ruru" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -391,16 +402,17 @@
       <workItem from="1690796811472" duration="58000" />
       <workItem from="1691647019824" duration="619000" />
       <workItem from="1692267870107" duration="38000" />
+      <workItem from="1694601808673" duration="43000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14218000" />
+    <option name="totallyTimeSpent" value="14261000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1680" height="1025" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.44627595" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.45177045" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
