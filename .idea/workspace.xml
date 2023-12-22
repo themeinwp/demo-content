@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5ab7a77-2714-46b6-9341-216c484b9696" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/magxpress/after-import.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magxpress/demo-content.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magxpress/free/content.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magxpress/free/customizer.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magxpress/free/screenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magxpress/free/widget.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magxpress/pro/screenshot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d5ab7a77-2714-46b6-9341-216c484b9696" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -390,6 +381,17 @@
               <item name="demo-content" type="462c0819:PsiDirectoryNode" />
               <item name="tribunal" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="demo-content" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-content" type="462c0819:PsiDirectoryNode" />
+              <item name="vidcast" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo-content" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-content" type="462c0819:PsiDirectoryNode" />
+              <item name="vidcast" type="462c0819:PsiDirectoryNode" />
+              <item name="pro" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -492,16 +494,17 @@
       <workItem from="1697702087550" duration="39000" />
       <workItem from="1700376519483" duration="31000" />
       <workItem from="1701239300255" duration="45000" />
+      <workItem from="1702291654852" duration="33000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14539000" />
+    <option name="totallyTimeSpent" value="14572000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1680" height="1025" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.491453" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.497558" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
