@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5ab7a77-2714-46b6-9341-216c484b9696" name="Default Changelist" comment="" />
+    <list default="true" id="d5ab7a77-2714-46b6-9341-216c484b9696" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/biziness/after-import.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biziness/demo-content.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biziness/free/content.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biziness/free/customizer.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biziness/free/screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biziness/free/widget.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biziness/pro/screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +71,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -73,13 +81,13 @@
             <path>
               <item name="demo-content" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo-content" type="462c0819:PsiDirectoryNode" />
-              <item name="blogboost" type="462c0819:PsiDirectoryNode" />
+              <item name="biziness" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="demo-content" type="b2602c69:ProjectViewProjectNode" />
               <item name="demo-content" type="462c0819:PsiDirectoryNode" />
-              <item name="blogboost" type="462c0819:PsiDirectoryNode" />
-              <item name="free" type="462c0819:PsiDirectoryNode" />
+              <item name="biziness" type="462c0819:PsiDirectoryNode" />
+              <item name="pro" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="demo-content" type="b2602c69:ProjectViewProjectNode" />
@@ -396,12 +404,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/biziness" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -495,16 +504,17 @@
       <workItem from="1700376519483" duration="31000" />
       <workItem from="1701239300255" duration="45000" />
       <workItem from="1702291654852" duration="33000" />
+      <workItem from="1703220273339" duration="543000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14572000" />
+    <option name="totallyTimeSpent" value="15115000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1680" height="1025" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.497558" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.503663" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
